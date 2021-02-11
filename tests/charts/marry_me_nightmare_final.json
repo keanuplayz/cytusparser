@@ -1,0 +1,1240 @@
+{
+   "format_version":0,
+   "time_base":480,
+   "start_offset_time":0,
+   "tempo_list":[	
+{	"tick"	:	0	,	"value"	:	480000	},
+								
+								
+								
+
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	8640	,	"value"	:	480769.23	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	16800	,	"value"	:	480288.17	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	25440	,	"value"	:	496277.92	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	47520	,	"value"	:	480961.92	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	59040	,	"value"	:	524017.47	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	68160	,	"value"	:	483870.97	},
+								
+{	"tick"	:	69120	,	"value"	:	480000	},
+								
+								
+{	"tick"	:	70560	,	"value"	:	468750	},
+								
+{	"tick"	:	71520	,	"value"	:	472440.95	},
+								
+								
+{	"tick"	:	72960	,	"value"	:	461538.46	},
+								
+								
+								
+								
+{	"tick"	:	75360	,	"value"	:	447761.19	},
+								
+								
+{	"tick"	:	76800	,	"value"	:	434782.61	},
+								
+								
+{	"tick"	:	78240	,	"value"	:	430107.53	},
+{	"tick"	:	78720	,	"value"	:	422832.98	},
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+{	"tick"	:	109440	,	"value"	:	444773.91	}
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+
+],
+"page_list":[									
+{	"scan_line_direction":	-1	,	"start_tick":	0	,	"end_tick":	480	},
+{	"scan_line_direction":	1	,	"start_tick":	480	,	"end_tick":	960	},
+{	"scan_line_direction":	-1	,	"start_tick":	960	,	"end_tick":	1440	},
+{	"scan_line_direction":	1	,	"start_tick":	1440	,	"end_tick":	1920	},
+{	"scan_line_direction":	-1	,	"start_tick":	1920	,	"end_tick":	2400	},
+{	"scan_line_direction":	1	,	"start_tick":	2400	,	"end_tick":	2880	},
+{	"scan_line_direction":	-1	,	"start_tick":	2880	,	"end_tick":	3360	},
+{	"scan_line_direction":	1	,	"start_tick":	3360	,	"end_tick":	3840	},
+{	"scan_line_direction":	-1	,	"start_tick":	3840	,	"end_tick":	4320	},
+{	"scan_line_direction":	1	,	"start_tick":	4320	,	"end_tick":	4800	},
+{	"scan_line_direction":	-1	,	"start_tick":	4800	,	"end_tick":	5280	},
+{	"scan_line_direction":	1	,	"start_tick":	5280	,	"end_tick":	5760	},
+{	"scan_line_direction":	-1	,	"start_tick":	5760	,	"end_tick":	6240	},
+{	"scan_line_direction":	1	,	"start_tick":	6240	,	"end_tick":	6720	},
+{	"scan_line_direction":	-1	,	"start_tick":	6720	,	"end_tick":	7200	},
+{	"scan_line_direction":	1	,	"start_tick":	7200	,	"end_tick":	7680	},
+{	"scan_line_direction":	-1	,	"start_tick":	7680	,	"end_tick":	8160	},
+{	"scan_line_direction":	1	,	"start_tick":	8160	,	"end_tick":	8640	},
+{	"scan_line_direction":	-1	,	"start_tick":	8640	,	"end_tick":	9120	},
+{	"scan_line_direction":	1	,	"start_tick":	9120	,	"end_tick":	9600	},
+{	"scan_line_direction":	-1	,	"start_tick":	9600	,	"end_tick":	10080	},
+{	"scan_line_direction":	1	,	"start_tick":	10080	,	"end_tick":	10560	},
+{	"scan_line_direction":	-1	,	"start_tick":	10560	,	"end_tick":	11040	},
+{	"scan_line_direction":	1	,	"start_tick":	11040	,	"end_tick":	11520	},
+{	"scan_line_direction":	-1	,	"start_tick":	11520	,	"end_tick":	12000	},
+{	"scan_line_direction":	1	,	"start_tick":	12000	,	"end_tick":	12480	},
+{	"scan_line_direction":	-1	,	"start_tick":	12480	,	"end_tick":	12960	},
+{	"scan_line_direction":	1	,	"start_tick":	12960	,	"end_tick":	13440	},
+{	"scan_line_direction":	-1	,	"start_tick":	13440	,	"end_tick":	13920	},
+{	"scan_line_direction":	1	,	"start_tick":	13920	,	"end_tick":	14400	},
+{	"scan_line_direction":	-1	,	"start_tick":	14400	,	"end_tick":	14880	},
+{	"scan_line_direction":	1	,	"start_tick":	14880	,	"end_tick":	15360	},
+{	"scan_line_direction":	-1	,	"start_tick":	15360	,	"end_tick":	15840	},
+{	"scan_line_direction":	1	,	"start_tick":	15840	,	"end_tick":	16320	},
+{	"scan_line_direction":	-1	,	"start_tick":	16320	,	"end_tick":	16800	},
+{	"scan_line_direction":	1	,	"start_tick":	16800	,	"end_tick":	17280	},
+{	"scan_line_direction":	-1	,	"start_tick":	17280	,	"end_tick":	17760	},
+{	"scan_line_direction":	1	,	"start_tick":	17760	,	"end_tick":	18240	},
+{	"scan_line_direction":	-1	,	"start_tick":	18240	,	"end_tick":	18720	},
+{	"scan_line_direction":	1	,	"start_tick":	18720	,	"end_tick":	19200	},
+{	"scan_line_direction":	-1	,	"start_tick":	19200	,	"end_tick":	19680	},
+{	"scan_line_direction":	1	,	"start_tick":	19680	,	"end_tick":	20160	},
+{	"scan_line_direction":	-1	,	"start_tick":	20160	,	"end_tick":	20640	},
+{	"scan_line_direction":	1	,	"start_tick":	20640	,	"end_tick":	21120	},
+{	"scan_line_direction":	-1	,	"start_tick":	21120	,	"end_tick":	21600	},
+{	"scan_line_direction":	1	,	"start_tick":	21600	,	"end_tick":	22080	},
+{	"scan_line_direction":	-1	,	"start_tick":	22080	,	"end_tick":	22560	},
+{	"scan_line_direction":	1	,	"start_tick":	22560	,	"end_tick":	23040	},
+{	"scan_line_direction":	-1	,	"start_tick":	23040	,	"end_tick":	23520	},
+{	"scan_line_direction":	1	,	"start_tick":	23520	,	"end_tick":	24000	},
+{	"scan_line_direction":	-1	,	"start_tick":	24000	,	"end_tick":	24480	},
+{	"scan_line_direction":	1	,	"start_tick":	24480	,	"end_tick":	24960	},
+{	"scan_line_direction":	-1	,	"start_tick":	24960	,	"end_tick":	25440	},
+{	"scan_line_direction":	1	,	"start_tick":	25440	,	"end_tick":	25920	},
+{	"scan_line_direction":	-1	,	"start_tick":	25920	,	"end_tick":	26400	},
+{	"scan_line_direction":	1	,	"start_tick":	26400	,	"end_tick":	26880	},
+{	"scan_line_direction":	-1	,	"start_tick":	26880	,	"end_tick":	27360	},
+{	"scan_line_direction":	1	,	"start_tick":	27360	,	"end_tick":	27840	},
+{	"scan_line_direction":	-1	,	"start_tick":	27840	,	"end_tick":	28320	},
+{	"scan_line_direction":	1	,	"start_tick":	28320	,	"end_tick":	28800	},
+{	"scan_line_direction":	-1	,	"start_tick":	28800	,	"end_tick":	29280	},
+{	"scan_line_direction":	1	,	"start_tick":	29280	,	"end_tick":	29760	},
+{	"scan_line_direction":	-1	,	"start_tick":	29760	,	"end_tick":	30240	},
+{	"scan_line_direction":	1	,	"start_tick":	30240	,	"end_tick":	30720	},
+{	"scan_line_direction":	-1	,	"start_tick":	30720	,	"end_tick":	31200	},
+{	"scan_line_direction":	1	,	"start_tick":	31200	,	"end_tick":	31680	},
+{	"scan_line_direction":	-1	,	"start_tick":	31680	,	"end_tick":	32160	},
+{	"scan_line_direction":	1	,	"start_tick":	32160	,	"end_tick":	32640	},
+{	"scan_line_direction":	-1	,	"start_tick":	32640	,	"end_tick":	33120	},
+{	"scan_line_direction":	1	,	"start_tick":	33120	,	"end_tick":	33600	},
+{	"scan_line_direction":	-1	,	"start_tick":	33600	,	"end_tick":	34080	},
+{	"scan_line_direction":	1	,	"start_tick":	34080	,	"end_tick":	34560	},
+{	"scan_line_direction":	-1	,	"start_tick":	34560	,	"end_tick":	35040	},
+{	"scan_line_direction":	1	,	"start_tick":	35040	,	"end_tick":	35520	},
+{	"scan_line_direction":	-1	,	"start_tick":	35520	,	"end_tick":	36000	},
+{	"scan_line_direction":	1	,	"start_tick":	36000	,	"end_tick":	36480	},
+{	"scan_line_direction":	-1	,	"start_tick":	36480	,	"end_tick":	36960	},
+{	"scan_line_direction":	1	,	"start_tick":	36960	,	"end_tick":	37440	},
+{	"scan_line_direction":	-1	,	"start_tick":	37440	,	"end_tick":	37920	},
+{	"scan_line_direction":	1	,	"start_tick":	37920	,	"end_tick":	38400	},
+{	"scan_line_direction":	-1	,	"start_tick":	38400	,	"end_tick":	38880	},
+{	"scan_line_direction":	1	,	"start_tick":	38880	,	"end_tick":	39360	},
+{	"scan_line_direction":	-1	,	"start_tick":	39360	,	"end_tick":	39840	},
+{	"scan_line_direction":	1	,	"start_tick":	39840	,	"end_tick":	40320	},
+{	"scan_line_direction":	-1	,	"start_tick":	40320	,	"end_tick":	40800	},
+{	"scan_line_direction":	1	,	"start_tick":	40800	,	"end_tick":	41280	},
+{	"scan_line_direction":	-1	,	"start_tick":	41280	,	"end_tick":	41760	},
+{	"scan_line_direction":	1	,	"start_tick":	41760	,	"end_tick":	42240	},
+{	"scan_line_direction":	-1	,	"start_tick":	42240	,	"end_tick":	42720	},
+{	"scan_line_direction":	1	,	"start_tick":	42720	,	"end_tick":	43200	},
+{	"scan_line_direction":	-1	,	"start_tick":	43200	,	"end_tick":	43680	},
+{	"scan_line_direction":	1	,	"start_tick":	43680	,	"end_tick":	44160	},
+{	"scan_line_direction":	-1	,	"start_tick":	44160	,	"end_tick":	44640	},
+{	"scan_line_direction":	1	,	"start_tick":	44640	,	"end_tick":	45120	},
+{	"scan_line_direction":	-1	,	"start_tick":	45120	,	"end_tick":	45600	},
+{	"scan_line_direction":	1	,	"start_tick":	45600	,	"end_tick":	46080	},
+{	"scan_line_direction":	-1	,	"start_tick":	46080	,	"end_tick":	46560	},
+{	"scan_line_direction":	1	,	"start_tick":	46560	,	"end_tick":	47040	},
+{	"scan_line_direction":	-1	,	"start_tick":	47040	,	"end_tick":	47520	},
+{	"scan_line_direction":	1	,	"start_tick":	47520	,	"end_tick":	48000	},
+{	"scan_line_direction":	-1	,	"start_tick":	48000	,	"end_tick":	48480	},
+{	"scan_line_direction":	1	,	"start_tick":	48480	,	"end_tick":	48960	},
+{	"scan_line_direction":	-1	,	"start_tick":	48960	,	"end_tick":	49440	},
+{	"scan_line_direction":	1	,	"start_tick":	49440	,	"end_tick":	49920	},
+{	"scan_line_direction":	-1	,	"start_tick":	49920	,	"end_tick":	50400	},
+{	"scan_line_direction":	1	,	"start_tick":	50400	,	"end_tick":	50880	},
+{	"scan_line_direction":	-1	,	"start_tick":	50880	,	"end_tick":	51360	},
+{	"scan_line_direction":	1	,	"start_tick":	51360	,	"end_tick":	51840	},
+{	"scan_line_direction":	-1	,	"start_tick":	51840	,	"end_tick":	52320	},
+{	"scan_line_direction":	1	,	"start_tick":	52320	,	"end_tick":	52800	},
+{	"scan_line_direction":	-1	,	"start_tick":	52800	,	"end_tick":	53280	},
+{	"scan_line_direction":	1	,	"start_tick":	53280	,	"end_tick":	53760	},
+{	"scan_line_direction":	-1	,	"start_tick":	53760	,	"end_tick":	54240	},
+{	"scan_line_direction":	1	,	"start_tick":	54240	,	"end_tick":	54720	},
+{	"scan_line_direction":	-1	,	"start_tick":	54720	,	"end_tick":	55200	},
+{	"scan_line_direction":	1	,	"start_tick":	55200	,	"end_tick":	55680	},
+{	"scan_line_direction":	-1	,	"start_tick":	55680	,	"end_tick":	56160	},
+{	"scan_line_direction":	1	,	"start_tick":	56160	,	"end_tick":	56640	},
+{	"scan_line_direction":	-1	,	"start_tick":	56640	,	"end_tick":	57120	},
+{	"scan_line_direction":	1	,	"start_tick":	57120	,	"end_tick":	57600	},
+{	"scan_line_direction":	-1	,	"start_tick":	57600	,	"end_tick":	58080	},
+{	"scan_line_direction":	1	,	"start_tick":	58080	,	"end_tick":	58560	},
+{	"scan_line_direction":	-1	,	"start_tick":	58560	,	"end_tick":	59040	},
+{	"scan_line_direction":	1	,	"start_tick":	59040	,	"end_tick":	59520	},
+{	"scan_line_direction":	-1	,	"start_tick":	59520	,	"end_tick":	60000	},
+{	"scan_line_direction":	1	,	"start_tick":	60000	,	"end_tick":	60480	},
+{	"scan_line_direction":	-1	,	"start_tick":	60480	,	"end_tick":	60960	},
+{	"scan_line_direction":	1	,	"start_tick":	60960	,	"end_tick":	61440	},
+{	"scan_line_direction":	-1	,	"start_tick":	61440	,	"end_tick":	61920	},
+{	"scan_line_direction":	1	,	"start_tick":	61920	,	"end_tick":	62400	},
+{	"scan_line_direction":	-1	,	"start_tick":	62400	,	"end_tick":	62880	},
+{	"scan_line_direction":	1	,	"start_tick":	62880	,	"end_tick":	63360	},
+{	"scan_line_direction":	-1	,	"start_tick":	63360	,	"end_tick":	63840	},
+{	"scan_line_direction":	1	,	"start_tick":	63840	,	"end_tick":	64320	},
+{	"scan_line_direction":	-1	,	"start_tick":	64320	,	"end_tick":	64800	},
+{	"scan_line_direction":	1	,	"start_tick":	64800	,	"end_tick":	65280	},
+{	"scan_line_direction":	-1	,	"start_tick":	65280	,	"end_tick":	65760	},
+{	"scan_line_direction":	1	,	"start_tick":	65760	,	"end_tick":	66240	},
+{	"scan_line_direction":	-1	,	"start_tick":	66240	,	"end_tick":	66720	},
+{	"scan_line_direction":	1	,	"start_tick":	66720	,	"end_tick":	67200	},
+{	"scan_line_direction":	-1	,	"start_tick":	67200	,	"end_tick":	67680	},
+{	"scan_line_direction":	1	,	"start_tick":	67680	,	"end_tick":	68160	},
+{	"scan_line_direction":	-1	,	"start_tick":	68160	,	"end_tick":	68640	},
+{	"scan_line_direction":	1	,	"start_tick":	68640	,	"end_tick":	69120	},
+{	"scan_line_direction":	-1	,	"start_tick":	69120	,	"end_tick":	69600	},
+{	"scan_line_direction":	1	,	"start_tick":	69600	,	"end_tick":	70080	},
+{	"scan_line_direction":	-1	,	"start_tick":	70080	,	"end_tick":	70560	},
+{	"scan_line_direction":	1	,	"start_tick":	70560	,	"end_tick":	71040	},
+{	"scan_line_direction":	-1	,	"start_tick":	71040	,	"end_tick":	71520	},
+{	"scan_line_direction":	1	,	"start_tick":	71520	,	"end_tick":	72000	},
+{	"scan_line_direction":	-1	,	"start_tick":	72000	,	"end_tick":	72480	},
+{	"scan_line_direction":	1	,	"start_tick":	72480	,	"end_tick":	72960	},
+{	"scan_line_direction":	-1	,	"start_tick":	72960	,	"end_tick":	73440	},
+{	"scan_line_direction":	1	,	"start_tick":	73440	,	"end_tick":	73920	},
+{	"scan_line_direction":	-1	,	"start_tick":	73920	,	"end_tick":	74400	},
+{	"scan_line_direction":	1	,	"start_tick":	74400	,	"end_tick":	74880	},
+{	"scan_line_direction":	-1	,	"start_tick":	74880	,	"end_tick":	75360	},
+{	"scan_line_direction":	1	,	"start_tick":	75360	,	"end_tick":	75840	},
+{	"scan_line_direction":	-1	,	"start_tick":	75840	,	"end_tick":	76320	},
+{	"scan_line_direction":	1	,	"start_tick":	76320	,	"end_tick":	76800	},
+{	"scan_line_direction":	-1	,	"start_tick":	76800	,	"end_tick":	77280	},
+{	"scan_line_direction":	1	,	"start_tick":	77280	,	"end_tick":	77760	},
+{	"scan_line_direction":	-1	,	"start_tick":	77760	,	"end_tick":	78240	},
+{	"scan_line_direction":	1	,	"start_tick":	78240	,	"end_tick":	78720	},
+{	"scan_line_direction":	-1	,	"start_tick":	78720	,	"end_tick":	79200	},
+{	"scan_line_direction":	1	,	"start_tick":	79200	,	"end_tick":	79680	},
+{	"scan_line_direction":	-1	,	"start_tick":	79680	,	"end_tick":	80160	},
+{	"scan_line_direction":	1	,	"start_tick":	80160	,	"end_tick":	80640	},
+{	"scan_line_direction":	-1	,	"start_tick":	80640	,	"end_tick":	81120	},
+{	"scan_line_direction":	1	,	"start_tick":	81120	,	"end_tick":	81600	},
+{	"scan_line_direction":	-1	,	"start_tick":	81600	,	"end_tick":	82080	},
+{	"scan_line_direction":	1	,	"start_tick":	82080	,	"end_tick":	82560	},
+{	"scan_line_direction":	-1	,	"start_tick":	82560	,	"end_tick":	83040	},
+{	"scan_line_direction":	1	,	"start_tick":	83040	,	"end_tick":	83520	},
+{	"scan_line_direction":	-1	,	"start_tick":	83520	,	"end_tick":	84000	},
+{	"scan_line_direction":	1	,	"start_tick":	84000	,	"end_tick":	84480	},
+{	"scan_line_direction":	-1	,	"start_tick":	84480	,	"end_tick":	84960	},
+{	"scan_line_direction":	1	,	"start_tick":	84960	,	"end_tick":	85440	},
+{	"scan_line_direction":	-1	,	"start_tick":	85440	,	"end_tick":	85920	},
+{	"scan_line_direction":	1	,	"start_tick":	85920	,	"end_tick":	86400	},
+{	"scan_line_direction":	-1	,	"start_tick":	86400	,	"end_tick":	86880	},
+{	"scan_line_direction":	1	,	"start_tick":	86880	,	"end_tick":	87360	},
+{	"scan_line_direction":	-1	,	"start_tick":	87360	,	"end_tick":	87840	},
+{	"scan_line_direction":	1	,	"start_tick":	87840	,	"end_tick":	88320	},
+{	"scan_line_direction":	-1	,	"start_tick":	88320	,	"end_tick":	88800	},
+{	"scan_line_direction":	1	,	"start_tick":	88800	,	"end_tick":	89280	},
+{	"scan_line_direction":	-1	,	"start_tick":	89280	,	"end_tick":	89760	},
+{	"scan_line_direction":	1	,	"start_tick":	89760	,	"end_tick":	90240	},
+{	"scan_line_direction":	-1	,	"start_tick":	90240	,	"end_tick":	90720	},
+{	"scan_line_direction":	1	,	"start_tick":	90720	,	"end_tick":	91200	},
+{	"scan_line_direction":	-1	,	"start_tick":	91200	,	"end_tick":	91680	},
+{	"scan_line_direction":	1	,	"start_tick":	91680	,	"end_tick":	92160	},
+{	"scan_line_direction":	-1	,	"start_tick":	92160	,	"end_tick":	92640	},
+{	"scan_line_direction":	1	,	"start_tick":	92640	,	"end_tick":	93120	},
+{	"scan_line_direction":	-1	,	"start_tick":	93120	,	"end_tick":	93600	},
+{	"scan_line_direction":	1	,	"start_tick":	93600	,	"end_tick":	94080	},
+{	"scan_line_direction":	-1	,	"start_tick":	94080	,	"end_tick":	94560	},
+{	"scan_line_direction":	1	,	"start_tick":	94560	,	"end_tick":	95040	},
+{	"scan_line_direction":	-1	,	"start_tick":	95040	,	"end_tick":	95520	},
+{	"scan_line_direction":	1	,	"start_tick":	95520	,	"end_tick":	96000	},
+{	"scan_line_direction":	-1	,	"start_tick":	96000	,	"end_tick":	96480	},
+{	"scan_line_direction":	1	,	"start_tick":	96480	,	"end_tick":	96960	},
+{	"scan_line_direction":	-1	,	"start_tick":	96960	,	"end_tick":	97440	},
+{	"scan_line_direction":	1	,	"start_tick":	97440	,	"end_tick":	97920	},
+{	"scan_line_direction":	-1	,	"start_tick":	97920	,	"end_tick":	98400	},
+{	"scan_line_direction":	1	,	"start_tick":	98400	,	"end_tick":	98880	},
+{	"scan_line_direction":	-1	,	"start_tick":	98880	,	"end_tick":	99360	},
+{	"scan_line_direction":	1	,	"start_tick":	99360	,	"end_tick":	99840	},
+{	"scan_line_direction":	-1	,	"start_tick":	99840	,	"end_tick":	100320	},
+{	"scan_line_direction":	1	,	"start_tick":	100320	,	"end_tick":	100800	},
+{	"scan_line_direction":	-1	,	"start_tick":	100800	,	"end_tick":	101280	},
+{	"scan_line_direction":	1	,	"start_tick":	101280	,	"end_tick":	101760	},
+{	"scan_line_direction":	-1	,	"start_tick":	101760	,	"end_tick":	102240	},
+{	"scan_line_direction":	1	,	"start_tick":	102240	,	"end_tick":	102720	},
+{	"scan_line_direction":	-1	,	"start_tick":	102720	,	"end_tick":	103200	},
+{	"scan_line_direction":	1	,	"start_tick":	103200	,	"end_tick":	103680	},
+{	"scan_line_direction":	-1	,	"start_tick":	103680	,	"end_tick":	104160	},
+{	"scan_line_direction":	1	,	"start_tick":	104160	,	"end_tick":	104640	},
+{	"scan_line_direction":	-1	,	"start_tick":	104640	,	"end_tick":	105120	},
+{	"scan_line_direction":	1	,	"start_tick":	105120	,	"end_tick":	105600	},
+{	"scan_line_direction":	-1	,	"start_tick":	105600	,	"end_tick":	106080	},
+{	"scan_line_direction":	1	,	"start_tick":	106080	,	"end_tick":	106560	},
+{	"scan_line_direction":	-1	,	"start_tick":	106560	,	"end_tick":	107040	},
+{	"scan_line_direction":	1	,	"start_tick":	107040	,	"end_tick":	107520	},
+{	"scan_line_direction":	-1	,	"start_tick":	107520	,	"end_tick":	108000	},
+{	"scan_line_direction":	1	,	"start_tick":	108000	,	"end_tick":	108480	},
+{	"scan_line_direction":	-1	,	"start_tick":	108480	,	"end_tick":	108960	},
+{	"scan_line_direction":	1	,	"start_tick":	108960	,	"end_tick":	109440	},
+{	"scan_line_direction":	-1	,	"start_tick":	109440	,	"end_tick":	109920	},
+{	"scan_line_direction":	1	,	"start_tick":	109920	,	"end_tick":	110400	},
+{	"scan_line_direction":	-1	,	"start_tick":	110400	,	"end_tick":	110880	},
+{	"scan_line_direction":	1	,	"start_tick":	110880	,	"end_tick":	111360	},
+{	"scan_line_direction":	-1	,	"start_tick":	111360	,	"end_tick":	111840	},
+{	"scan_line_direction":	1	,	"start_tick":	111840	,	"end_tick":	112320	},
+{	"scan_line_direction":	-1	,	"start_tick":	112320	,	"end_tick":	112800	},
+{	"scan_line_direction":	1	,	"start_tick":	112800	,	"end_tick":	113280	},
+{	"scan_line_direction":	-1	,	"start_tick":	113280	,	"end_tick":	113760	},
+{	"scan_line_direction":	1	,	"start_tick":	113760	,	"end_tick":	114240	},
+{	"scan_line_direction":	-1	,	"start_tick":	114240	,	"end_tick":	114720	},
+{	"scan_line_direction":	1	,	"start_tick":	114720	,	"end_tick":	115200	},
+{	"scan_line_direction":	-1	,	"start_tick":	115200	,	"end_tick":	115680	},
+{	"scan_line_direction":	1	,	"start_tick":	115680	,	"end_tick":	116160	},
+{	"scan_line_direction":	-1	,	"start_tick":	116160	,	"end_tick":	116640	},
+{	"scan_line_direction":	1	,	"start_tick":	116640	,	"end_tick":	117120	},
+{	"scan_line_direction":	-1	,	"start_tick":	117120	,	"end_tick":	117600	},
+{	"scan_line_direction":	1	,	"start_tick":	117600	,	"end_tick":	118080	},
+{	"scan_line_direction":	-1	,	"start_tick":	118080	,	"end_tick":	118560	},
+{	"scan_line_direction":	1	,	"start_tick":	118560	,	"end_tick":	119040	},
+{	"scan_line_direction":	-1	,	"start_tick":	119040	,	"end_tick":	119520	},
+{	"scan_line_direction":	1	,	"start_tick":	119520	,	"end_tick":	120000	},
+{	"scan_line_direction":	-1	,	"start_tick":	120000	,	"end_tick":	120480	},
+{	"scan_line_direction":	1	,	"start_tick":	120480	,	"end_tick":	120960	},
+{	"scan_line_direction":	-1	,	"start_tick":	120960	,	"end_tick":	121440	},
+{	"scan_line_direction":	1	,	"start_tick":	121440	,	"end_tick":	121920	},
+{	"scan_line_direction":	-1	,	"start_tick":	121920	,	"end_tick":	122400	},
+{	"scan_line_direction":	1	,	"start_tick":	122400	,	"end_tick":	122880	},
+{	"scan_line_direction":	-1	,	"start_tick":	122880	,	"end_tick":	123360	},
+{	"scan_line_direction":	1	,	"start_tick":	123360	,	"end_tick":	123840	},
+{	"scan_line_direction":	-1	,	"start_tick":	123840	,	"end_tick":	124320	},
+{	"scan_line_direction":	1	,	"start_tick":	124320	,	"end_tick":	124800	},
+{	"scan_line_direction":	-1	,	"start_tick":	124800	,	"end_tick":	125280	},
+{	"scan_line_direction":	1	,	"start_tick":	125280	,	"end_tick":	125760	},
+{	"scan_line_direction":	-1	,	"start_tick":	125760	,	"end_tick":	126240	},
+{	"scan_line_direction":	1	,	"start_tick":	126240	,	"end_tick":	126720	},
+{	"scan_line_direction":	-1	,	"start_tick":	126720	,	"end_tick":	127200	},
+{	"scan_line_direction":	1	,	"start_tick":	127200	,	"end_tick":	127680	},
+{	"scan_line_direction":	-1	,	"start_tick":	127680	,	"end_tick":	128160	},
+{	"scan_line_direction":	1	,	"start_tick":	128160	,	"end_tick":	128640	},
+{	"scan_line_direction":	-1	,	"start_tick":	128640	,	"end_tick":	129120	},
+{	"scan_line_direction":	1	,	"start_tick":	129120	,	"end_tick":	129600	},
+{	"scan_line_direction":	-1	,	"start_tick":	129600	,	"end_tick":	130080	},
+{	"scan_line_direction":	1	,	"start_tick":	130080	,	"end_tick":	130560	},
+{	"scan_line_direction":	-1	,	"start_tick":	130560	,	"end_tick":	131040	},
+{	"scan_line_direction":	1	,	"start_tick":	131040	,	"end_tick":	131520	},
+{	"scan_line_direction":	-1	,	"start_tick":	131520	,	"end_tick":	132000	},
+{	"scan_line_direction":	1	,	"start_tick":	132000	,	"end_tick":	132480	},
+{	"scan_line_direction":	1	,	"start_tick":	132480	,	"end_tick":	132960	}
+],
+"note_list":[																					 
+{	"id":	0	,	"type":	2	,	"x":	0.2	,	"tick":	1440	,	"hold_tick":	2880	,	"page_index":	3	,	"next_id":	0	},
+{	"id":	1	,	"type":	0	,	"x":	0.55	,	"tick":	7200	,	"hold_tick":	0	,	"page_index":	15	,	"next_id":	0	},
+{	"id":	2	,	"type":	2	,	"x":	0.2	,	"tick":	7320	,	"hold_tick":	720	,	"page_index":	15	,	"next_id":	0	},
+{	"id":	3	,	"type":	5	,	"x":	0.4	,	"tick":	8400	,	"hold_tick":	0	,	"page_index":	17	,	"next_id":	0	},
+{	"id":	4	,	"type":	5	,	"x":	0.7	,	"tick":	8520	,	"hold_tick":	0	,	"page_index":	17	,	"next_id":	0	},
+{	"id":	5	,	"type":	5	,	"x":	0.15	,	"tick":	8640	,	"hold_tick":	0	,	"page_index":	18	,	"next_id":	0	},
+{	"id":	6	,	"type":	5	,	"x":	0.85	,	"tick":	8760	,	"hold_tick":	0	,	"page_index":	18	,	"next_id":	0	},
+{	"id":	7	,	"type":	5	,	"x":	0.15	,	"tick":	8880	,	"hold_tick":	0	,	"page_index":	18	,	"next_id":	0	},
+{	"id":	8	,	"type":	5	,	"x":	0.85	,	"tick":	9000	,	"hold_tick":	0	,	"page_index":	18	,	"next_id":	0	},
+{	"id":	9	,	"type":	0	,	"x":	0.25	,	"tick":	9120	,	"hold_tick":	0	,	"page_index":	19	,	"next_id":	0	},
+{	"id":	10	,	"type":	0	,	"x":	0.3	,	"tick":	9360.1	,	"hold_tick":	0	,	"page_index":	19	,	"next_id":	0	},
+{	"id":	11	,	"type":	0	,	"x":	0.75	,	"tick":	9480.14	,	"hold_tick":	0	,	"page_index":	19	,	"next_id":	0	},
+{	"id":	12	,	"type":	0	,	"x":	0.35	,	"tick":	9720.24	,	"hold_tick":	0	,	"page_index":	20	,	"next_id":	0	},
+{	"id":	13	,	"type":	0	,	"x":	0.6	,	"tick":	9840.29	,	"hold_tick":	0	,	"page_index":	20	,	"next_id":	0	},
+{	"id":	14	,	"type":	0	,	"x":	0.25	,	"tick":	10080.38	,	"hold_tick":	0	,	"page_index":	21	,	"next_id":	0	},
+{	"id":	15	,	"type":	0	,	"x":	0.45	,	"tick":	10200.43	,	"hold_tick":	0	,	"page_index":	21	,	"next_id":	0	},
+{	"id":	16	,	"type":	0	,	"x":	0.8	,	"tick":	10320.48	,	"hold_tick":	0	,	"page_index":	21	,	"next_id":	0	},
+{	"id":	17	,	"type":	0	,	"x":	0.35	,	"tick":	10440.53	,	"hold_tick":	0	,	"page_index":	21	,	"next_id":	0	},
+{	"id":	18	,	"type":	0	,	"x":	0.5	,	"tick":	10560.58	,	"hold_tick":	0	,	"page_index":	22	,	"next_id":	0	},
+{	"id":	19	,	"type":	0	,	"x":	0.2	,	"tick":	10800.67	,	"hold_tick":	0	,	"page_index":	22	,	"next_id":	0	},
+{	"id":	20	,	"type":	0	,	"x":	0.6	,	"tick":	10920.72	,	"hold_tick":	0	,	"page_index":	22	,	"next_id":	0	},
+{	"id":	21	,	"type":	0	,	"x":	0.25	,	"tick":	11040.77	,	"hold_tick":	0	,	"page_index":	23	,	"next_id":	0	},
+{	"id":	22	,	"type":	0	,	"x":	0.75	,	"tick":	11160.82	,	"hold_tick":	0	,	"page_index":	23	,	"next_id":	0	},
+{	"id":	23	,	"type":	0	,	"x":	0.25	,	"tick":	11400.91	,	"hold_tick":	0	,	"page_index":	23	,	"next_id":	0	},
+{	"id":	24	,	"type":	0	,	"x":	0.7	,	"tick":	11520.96	,	"hold_tick":	0	,	"page_index":	24	,	"next_id":	0	},
+{	"id":	25	,	"type":	0	,	"x":	0.65	,	"tick":	11761.06	,	"hold_tick":	0	,	"page_index":	24	,	"next_id":	0	},
+{	"id":	26	,	"type":	0	,	"x":	0.35	,	"tick":	11881.11	,	"hold_tick":	0	,	"page_index":	24	,	"next_id":	0	},
+{	"id":	27	,	"type":	0	,	"x":	0.2	,	"tick":	12001.15	,	"hold_tick":	0	,	"page_index":	25	,	"next_id":	0	},
+{	"id":	28	,	"type":	0	,	"x":	0.75	,	"tick":	12121.2	,	"hold_tick":	0	,	"page_index":	25	,	"next_id":	0	},
+{	"id":	29	,	"type":	0	,	"x":	0.2	,	"tick":	12241.25	,	"hold_tick":	0	,	"page_index":	25	,	"next_id":	0	},
+{	"id":	30	,	"type":	0	,	"x":	0.75	,	"tick":	12361.3	,	"hold_tick":	0	,	"page_index":	25	,	"next_id":	0	},
+{	"id":	31	,	"type":	0	,	"x":	0.2	,	"tick":	12481.35	,	"hold_tick":	0	,	"page_index":	26	,	"next_id":	0	},
+{	"id":	32	,	"type":	0	,	"x":	0.4	,	"tick":	12601.39	,	"hold_tick":	0	,	"page_index":	26	,	"next_id":	0	},
+{	"id":	33	,	"type":	2	,	"x":	0.6	,	"tick":	12721.44	,	"hold_tick":	480.2	,	"page_index":	26	,	"next_id":	0	},
+{	"id":	34	,	"type":	0	,	"x":	0.2	,	"tick":	13201.64	,	"hold_tick":	0	,	"page_index":	27	,	"next_id":	0	},
+{	"id":	35	,	"type":	0	,	"x":	0.4	,	"tick":	13321.68	,	"hold_tick":	0	,	"page_index":	27	,	"next_id":	0	},
+{	"id":	36	,	"type":	0	,	"x":	0.65	,	"tick":	13441.73	,	"hold_tick":	0	,	"page_index":	28	,	"next_id":	0	},
+{	"id":	37	,	"type":	0	,	"x":	0.75	,	"tick":	13681.83	,	"hold_tick":	0	,	"page_index":	28	,	"next_id":	0	},
+{	"id":	38	,	"type":	0	,	"x":	0.35	,	"tick":	13801.88	,	"hold_tick":	0	,	"page_index":	28	,	"next_id":	0	},
+{	"id":	39	,	"type":	0	,	"x":	0.6	,	"tick":	14041.97	,	"hold_tick":	0	,	"page_index":	29	,	"next_id":	0	},
+{	"id":	40	,	"type":	0	,	"x":	0.2	,	"tick":	14162.02	,	"hold_tick":	0	,	"page_index":	29	,	"next_id":	0	},
+{	"id":	41	,	"type":	0	,	"x":	0.6	,	"tick":	14282.07	,	"hold_tick":	0	,	"page_index":	29	,	"next_id":	0	},
+{	"id":	42	,	"type":	0	,	"x":	0.2	,	"tick":	14402.12	,	"hold_tick":	0	,	"page_index":	30	,	"next_id":	0	},
+{	"id":	43	,	"type":	0	,	"x":	0.7	,	"tick":	14642.21	,	"hold_tick":	0	,	"page_index":	30	,	"next_id":	0	},
+{	"id":	44	,	"type":	0	,	"x":	0.3	,	"tick":	14762.26	,	"hold_tick":	0	,	"page_index":	30	,	"next_id":	0	},
+{	"id":	45	,	"type":	0	,	"x":	0.15	,	"tick":	15002.36	,	"hold_tick":	0	,	"page_index":	31	,	"next_id":	0	},
+{	"id":	46	,	"type":	0	,	"x":	0.5	,	"tick":	15122.4	,	"hold_tick":	0	,	"page_index":	31	,	"next_id":	0	},
+{	"id":	47	,	"type":	0	,	"x":	0.15	,	"tick":	15242.45	,	"hold_tick":	0	,	"page_index":	31	,	"next_id":	0	},
+{	"id":	48	,	"type":	0	,	"x":	0.5	,	"tick":	15362.5	,	"hold_tick":	0	,	"page_index":	32	,	"next_id":	0	},
+{	"id":	49	,	"type":	0	,	"x":	0.3	,	"tick":	15600	,	"hold_tick":	0	,	"page_index":	32	,	"next_id":	0	},
+{	"id":	50	,	"type":	0	,	"x":	0.65	,	"tick":	15720	,	"hold_tick":	0	,	"page_index":	32	,	"next_id":	0	},
+{	"id":	51	,	"type":	0	,	"x":	0.3	,	"tick":	15840	,	"hold_tick":	0	,	"page_index":	33	,	"next_id":	0	},
+{	"id":	52	,	"type":	0	,	"x":	0.5	,	"tick":	15960	,	"hold_tick":	0	,	"page_index":	33	,	"next_id":	0	},
+{	"id":	53	,	"type":	0	,	"x":	0.2	,	"tick":	16200	,	"hold_tick":	0	,	"page_index":	33	,	"next_id":	0	},
+{	"id":	54	,	"type":	0	,	"x":	0.75	,	"tick":	16320	,	"hold_tick":	0	,	"page_index":	34	,	"next_id":	0	},
+{	"id":	55	,	"type":	1	,	"x":	0.35	,	"tick":	16440	,	"hold_tick":	240	,	"page_index":	34	,	"next_id":	0	},
+{	"id":	56	,	"type":	0	,	"x":	0.55	,	"tick":	16680	,	"hold_tick":	0	,	"page_index":	34	,	"next_id":	0	},
+{	"id":	57	,	"type":	1	,	"x":	0.75	,	"tick":	16800	,	"hold_tick":	360.36	,	"page_index":	35	,	"next_id":	0	},
+{	"id":	58	,	"type":	0	,	"x":	0.3	,	"tick":	17520	,	"hold_tick":	0	,	"page_index":	36	,	"next_id":	0	},
+{	"id":	59	,	"type":	0	,	"x":	0.55	,	"tick":	17640	,	"hold_tick":	0	,	"page_index":	36	,	"next_id":	0	},
+{	"id":	60	,	"type":	0	,	"x":	0.4	,	"tick":	17760	,	"hold_tick":	0	,	"page_index":	37	,	"next_id":	0	},
+{	"id":	61	,	"type":	0	,	"x":	0.4	,	"tick":	18000.72	,	"hold_tick":	0	,	"page_index":	37	,	"next_id":	0	},
+{	"id":	62	,	"type":	0	,	"x":	0.6	,	"tick":	18120.84	,	"hold_tick":	0	,	"page_index":	37	,	"next_id":	0	},
+{	"id":	63	,	"type":	0	,	"x":	0.25	,	"tick":	18361.08	,	"hold_tick":	0	,	"page_index":	38	,	"next_id":	0	},
+{	"id":	64	,	"type":	0	,	"x":	0.7	,	"tick":	18481.2	,	"hold_tick":	0	,	"page_index":	38	,	"next_id":	0	},
+{	"id":	65	,	"type":	0	,	"x":	0.25	,	"tick":	18601.32	,	"hold_tick":	0	,	"page_index":	38	,	"next_id":	0	},
+{	"id":	66	,	"type":	0	,	"x":	0.55	,	"tick":	18720	,	"hold_tick":	0	,	"page_index":	39	,	"next_id":	0	},
+{	"id":	67	,	"type":	0	,	"x":	0.45	,	"tick":	18961.68	,	"hold_tick":	0	,	"page_index":	39	,	"next_id":	0	},
+{	"id":	68	,	"type":	0	,	"x":	0.6	,	"tick":	19081.8	,	"hold_tick":	0	,	"page_index":	39	,	"next_id":	0	},
+{	"id":	69	,	"type":	0	,	"x":	0.25	,	"tick":	19322.04	,	"hold_tick":	0	,	"page_index":	40	,	"next_id":	0	},
+{	"id":	70	,	"type":	0	,	"x":	0.8	,	"tick":	19442.16	,	"hold_tick":	0	,	"page_index":	40	,	"next_id":	0	},
+{	"id":	71	,	"type":	0	,	"x":	0.25	,	"tick":	19562.28	,	"hold_tick":	0	,	"page_index":	40	,	"next_id":	0	},
+{	"id":	72	,	"type":	0	,	"x":	0.8	,	"tick":	19682.4	,	"hold_tick":	0	,	"page_index":	41	,	"next_id":	0	},
+{	"id":	73	,	"type":	0	,	"x":	0.6	,	"tick":	19922.64	,	"hold_tick":	0	,	"page_index":	41	,	"next_id":	0	},
+{	"id":	74	,	"type":	0	,	"x":	0.4	,	"tick":	20042.76	,	"hold_tick":	0	,	"page_index":	41	,	"next_id":	0	},
+{	"id":	75	,	"type":	0	,	"x":	0.2	,	"tick":	20162.88	,	"hold_tick":	0	,	"page_index":	42	,	"next_id":	0	},
+{	"id":	76	,	"type":	0	,	"x":	0.75	,	"tick":	20283	,	"hold_tick":	0	,	"page_index":	42	,	"next_id":	0	},
+{	"id":	77	,	"type":	0	,	"x":	0.2	,	"tick":	20523.25	,	"hold_tick":	0	,	"page_index":	42	,	"next_id":	0	},
+{	"id":	78	,	"type":	0	,	"x":	0.7	,	"tick":	20643.37	,	"hold_tick":	0	,	"page_index":	43	,	"next_id":	0	},
+{	"id":	79	,	"type":	0	,	"x":	0.4	,	"tick":	20763.49	,	"hold_tick":	0	,	"page_index":	43	,	"next_id":	0	},
+{	"id":	80	,	"type":	1	,	"x":	0.6	,	"tick":	20883.61	,	"hold_tick":	240.24	,	"page_index":	43	,	"next_id":	0	},
+{	"id":	81	,	"type":	0	,	"x":	0.35	,	"tick":	21123.85	,	"hold_tick":	0	,	"page_index":	44	,	"next_id":	0	},
+{	"id":	82	,	"type":	1	,	"x":	0.8	,	"tick":	21243.97	,	"hold_tick":	360.36	,	"page_index":	44	,	"next_id":	0	},
+{	"id":	83	,	"type":	0	,	"x":	0.45	,	"tick":	21600	,	"hold_tick":	0	,	"page_index":	45	,	"next_id":	0	},
+{	"id":	84	,	"type":	0	,	"x":	0.3	,	"tick":	21840	,	"hold_tick":	0	,	"page_index":	45	,	"next_id":	0	},
+{	"id":	85	,	"type":	0	,	"x":	0.55	,	"tick":	21960	,	"hold_tick":	0	,	"page_index":	45	,	"next_id":	0	},
+{	"id":	86	,	"type":	0	,	"x":	0.3	,	"tick":	22080	,	"hold_tick":	0	,	"page_index":	46	,	"next_id":	0	},
+{	"id":	87	,	"type":	0	,	"x":	0.75	,	"tick":	22320	,	"hold_tick":	0	,	"page_index":	46	,	"next_id":	0	},
+{	"id":	88	,	"type":	0	,	"x":	0.2	,	"tick":	22560	,	"hold_tick":	0	,	"page_index":	47	,	"next_id":	0	},
+{	"id":	89	,	"type":	0	,	"x":	0.65	,	"tick":	22680	,	"hold_tick":	0	,	"page_index":	47	,	"next_id":	0	},
+{	"id":	90	,	"type":	0	,	"x":	0.25	,	"tick":	23040	,	"hold_tick":	0	,	"page_index":	48	,	"next_id":	0	},
+{	"id":	91	,	"type":	0	,	"x":	0.75	,	"tick":	23160	,	"hold_tick":	0	,	"page_index":	48	,	"next_id":	0	},
+{	"id":	92	,	"type":	0	,	"x":	0.25	,	"tick":	23280	,	"hold_tick":	0	,	"page_index":	48	,	"next_id":	0	},
+{	"id":	93	,	"type":	0	,	"x":	0.6	,	"tick":	23400	,	"hold_tick":	0	,	"page_index":	48	,	"next_id":	0	},
+{	"id":	94	,	"type":	0	,	"x":	0.35	,	"tick":	23520	,	"hold_tick":	0	,	"page_index":	49	,	"next_id":	0	},
+{	"id":	95	,	"type":	0	,	"x":	0.75	,	"tick":	23640	,	"hold_tick":	0	,	"page_index":	49	,	"next_id":	0	},
+{	"id":	96	,	"type":	0	,	"x":	0.35	,	"tick":	24000	,	"hold_tick":	0	,	"page_index":	50	,	"next_id":	0	},
+{	"id":	97	,	"type":	0	,	"x":	0.7	,	"tick":	24120	,	"hold_tick":	0	,	"page_index":	50	,	"next_id":	0	},
+{	"id":	98	,	"type":	0	,	"x":	0.7	,	"tick":	24360	,	"hold_tick":	0	,	"page_index":	50	,	"next_id":	0	},
+{	"id":	99	,	"type":	0	,	"x":	0.35	,	"tick":	24480	,	"hold_tick":	0	,	"page_index":	51	,	"next_id":	0	},
+{	"id":	100	,	"type":	0	,	"x":	0.35	,	"tick":	24720	,	"hold_tick":	0	,	"page_index":	51	,	"next_id":	0	},
+{	"id":	101	,	"type":	0	,	"x":	0.65	,	"tick":	24960	,	"hold_tick":	0	,	"page_index":	52	,	"next_id":	0	},
+{	"id":	102	,	"type":	0	,	"x":	0.65	,	"tick":	25200	,	"hold_tick":	0	,	"page_index":	52	,	"next_id":	0	},
+{	"id":	103	,	"type":	2	,	"x":	0.15	,	"tick":	25320	,	"hold_tick":	600	,	"page_index":	52	,	"next_id":	0	},
+{	"id":	104	,	"type":	0	,	"x":	0.4	,	"tick":	25680	,	"hold_tick":	0	,	"page_index":	53	,	"next_id":	0	},
+{	"id":	105	,	"type":	0	,	"x":	0.6	,	"tick":	25800	,	"hold_tick":	0	,	"page_index":	53	,	"next_id":	0	},
+{	"id":	106	,	"type":	2	,	"x":	0.8	,	"tick":	25920	,	"hold_tick":	720	,	"page_index":	54	,	"next_id":	0	},
+{	"id":	107	,	"type":	0	,	"x":	0.3	,	"tick":	26880	,	"hold_tick":	0	,	"page_index":	56	,	"next_id":	0	},
+{	"id":	108	,	"type":	0	,	"x":	0.6	,	"tick":	27120	,	"hold_tick":	0	,	"page_index":	56	,	"next_id":	0	},
+{	"id":	109	,	"type":	0	,	"x":	0.35	,	"tick":	27360	,	"hold_tick":	0	,	"page_index":	57	,	"next_id":	0	},
+{	"id":	110	,	"type":	0	,	"x":	0.7	,	"tick":	27840	,	"hold_tick":	0	,	"page_index":	58	,	"next_id":	0	},
+{	"id":	111	,	"type":	0	,	"x":	0.35	,	"tick":	28080	,	"hold_tick":	0	,	"page_index":	58	,	"next_id":	0	},
+{	"id":	112	,	"type":	0	,	"x":	0.75	,	"tick":	28560	,	"hold_tick":	0	,	"page_index":	59	,	"next_id":	0	},
+{	"id":	113	,	"type":	0	,	"x":	0.25	,	"tick":	28560	,	"hold_tick":	0	,	"page_index":	59	,	"next_id":	0	},
+{	"id":	114	,	"type":	0	,	"x":	0.25	,	"tick":	28800	,	"hold_tick":	0	,	"page_index":	60	,	"next_id":	0	},
+{	"id":	115	,	"type":	0	,	"x":	0.75	,	"tick":	28800	,	"hold_tick":	0	,	"page_index":	60	,	"next_id":	0	},
+{	"id":	116	,	"type":	0	,	"x":	0.4	,	"tick":	29280	,	"hold_tick":	0	,	"page_index":	61	,	"next_id":	0	},
+{	"id":	117	,	"type":	0	,	"x":	0.6	,	"tick":	29520	,	"hold_tick":	0	,	"page_index":	61	,	"next_id":	0	},
+{	"id":	118	,	"type":	0	,	"x":	0.35	,	"tick":	29760	,	"hold_tick":	0	,	"page_index":	62	,	"next_id":	0	},
+{	"id":	119	,	"type":	0	,	"x":	0.3	,	"tick":	30000	,	"hold_tick":	0	,	"page_index":	62	,	"next_id":	0	},
+{	"id":	120	,	"type":	0	,	"x":	0.6	,	"tick":	30240	,	"hold_tick":	0	,	"page_index":	63	,	"next_id":	0	},
+{	"id":	121	,	"type":	0	,	"x":	0.55	,	"tick":	30720	,	"hold_tick":	0	,	"page_index":	64	,	"next_id":	0	},
+{	"id":	122	,	"type":	0	,	"x":	0.7	,	"tick":	30960	,	"hold_tick":	0	,	"page_index":	64	,	"next_id":	0	},
+{	"id":	123	,	"type":	0	,	"x":	0.45	,	"tick":	31200	,	"hold_tick":	0	,	"page_index":	65	,	"next_id":	0	},
+{	"id":	124	,	"type":	0	,	"x":	0.55	,	"tick":	31440	,	"hold_tick":	0	,	"page_index":	65	,	"next_id":	0	},
+{	"id":	125	,	"type":	0	,	"x":	0.25	,	"tick":	31440	,	"hold_tick":	0	,	"page_index":	65	,	"next_id":	0	},
+{	"id":	126	,	"type":	0	,	"x":	0.75	,	"tick":	31920	,	"hold_tick":	0	,	"page_index":	66	,	"next_id":	0	},
+{	"id":	127	,	"type":	0	,	"x":	0.45	,	"tick":	31920	,	"hold_tick":	0	,	"page_index":	66	,	"next_id":	0	},
+{	"id":	128	,	"type":	0	,	"x":	0.65	,	"tick":	32160	,	"hold_tick":	0	,	"page_index":	67	,	"next_id":	0	},
+{	"id":	129	,	"type":	0	,	"x":	0.3	,	"tick":	32160	,	"hold_tick":	0	,	"page_index":	67	,	"next_id":	0	},
+{	"id":	130	,	"type":	0	,	"x":	0.55	,	"tick":	32880	,	"hold_tick":	0	,	"page_index":	68	,	"next_id":	0	},
+{	"id":	131	,	"type":	0	,	"x":	0.25	,	"tick":	32880	,	"hold_tick":	0	,	"page_index":	68	,	"next_id":	0	},
+{	"id":	132	,	"type":	0	,	"x":	0.45	,	"tick":	33360	,	"hold_tick":	0	,	"page_index":	69	,	"next_id":	0	},
+{	"id":	133	,	"type":	0	,	"x":	0.75	,	"tick":	33360	,	"hold_tick":	0	,	"page_index":	69	,	"next_id":	0	},
+{	"id":	134	,	"type":	0	,	"x":	0.3	,	"tick":	33600	,	"hold_tick":	0	,	"page_index":	70	,	"next_id":	0	},
+{	"id":	135	,	"type":	0	,	"x":	0.65	,	"tick":	33600	,	"hold_tick":	0	,	"page_index":	70	,	"next_id":	0	},
+{	"id":	136	,	"type":	0	,	"x":	0.35	,	"tick":	34320	,	"hold_tick":	0	,	"page_index":	71	,	"next_id":	0	},
+{	"id":	137	,	"type":	0	,	"x":	0.65	,	"tick":	34320	,	"hold_tick":	0	,	"page_index":	71	,	"next_id":	0	},
+{	"id":	138	,	"type":	0	,	"x":	0.8	,	"tick":	34800	,	"hold_tick":	0	,	"page_index":	72	,	"next_id":	0	},
+{	"id":	139	,	"type":	0	,	"x":	0.2	,	"tick":	34800	,	"hold_tick":	0	,	"page_index":	72	,	"next_id":	0	},
+{	"id":	140	,	"type":	0	,	"x":	0.6	,	"tick":	35040	,	"hold_tick":	0	,	"page_index":	73	,	"next_id":	0	},
+{	"id":	141	,	"type":	0	,	"x":	0.4	,	"tick":	35040	,	"hold_tick":	0	,	"page_index":	73	,	"next_id":	0	},
+{	"id":	142	,	"type":	2	,	"x":	0.2	,	"tick":	35760	,	"hold_tick":	720	,	"page_index":	74	,	"next_id":	0	},
+{	"id":	143	,	"type":	0	,	"x":	0.5	,	"tick":	36480	,	"hold_tick":	0	,	"page_index":	76	,	"next_id":	0	},
+{	"id":	144	,	"type":	0	,	"x":	0.7	,	"tick":	36720	,	"hold_tick":	0	,	"page_index":	76	,	"next_id":	0	},
+{	"id":	145	,	"type":	1	,	"x":	0.3	,	"tick":	36960	,	"hold_tick":	480	,	"page_index":	77	,	"next_id":	0	},
+{	"id":	146	,	"type":	0	,	"x":	0.55	,	"tick":	37440	,	"hold_tick":	0	,	"page_index":	78	,	"next_id":	0	},
+{	"id":	147	,	"type":	0	,	"x":	0.8	,	"tick":	37560	,	"hold_tick":	0	,	"page_index":	78	,	"next_id":	0	},
+{	"id":	148	,	"type":	2	,	"x":	0.15	,	"tick":	37680	,	"hold_tick":	480	,	"page_index":	78	,	"next_id":	0	},
+{	"id":	149	,	"type":	0	,	"x":	0.45	,	"tick":	38160	,	"hold_tick":	0	,	"page_index":	79	,	"next_id":	0	},
+{	"id":	150	,	"type":	1	,	"x":	0.7	,	"tick":	38400	,	"hold_tick":	480	,	"page_index":	80	,	"next_id":	0	},
+{	"id":	151	,	"type":	0	,	"x":	0.5	,	"tick":	38880	,	"hold_tick":	0	,	"page_index":	81	,	"next_id":	0	},
+{	"id":	152	,	"type":	0	,	"x":	0.25	,	"tick":	39120	,	"hold_tick":	0	,	"page_index":	81	,	"next_id":	0	},
+{	"id":	153	,	"type":	0	,	"x":	0.5	,	"tick":	39360	,	"hold_tick":	0	,	"page_index":	82	,	"next_id":	0	},
+{	"id":	154	,	"type":	0	,	"x":	0.75	,	"tick":	39600	,	"hold_tick":	0	,	"page_index":	82	,	"next_id":	0	},
+{	"id":	155	,	"type":	1	,	"x":	0.5	,	"tick":	39840	,	"hold_tick":	480	,	"page_index":	83	,	"next_id":	0	},
+{	"id":	156	,	"type":	0	,	"x":	0.7	,	"tick":	40320	,	"hold_tick":	0	,	"page_index":	84	,	"next_id":	0	},
+{	"id":	157	,	"type":	0	,	"x":	0.3	,	"tick":	40440	,	"hold_tick":	0	,	"page_index":	84	,	"next_id":	0	},
+{	"id":	158	,	"type":	2	,	"x":	0.8	,	"tick":	40560	,	"hold_tick":	480	,	"page_index":	84	,	"next_id":	0	},
+{	"id":	159	,	"type":	0	,	"x":	0.2	,	"tick":	41040	,	"hold_tick":	0	,	"page_index":	85	,	"next_id":	0	},
+{	"id":	160	,	"type":	1	,	"x":	0.4	,	"tick":	41280	,	"hold_tick":	480	,	"page_index":	86	,	"next_id":	0	},
+{	"id":	161	,	"type":	0	,	"x":	0.5	,	"tick":	41760	,	"hold_tick":	0	,	"page_index":	87	,	"next_id":	0	},
+{	"id":	162	,	"type":	5	,	"x":	0.2	,	"tick":	42000	,	"hold_tick":	0	,	"page_index":	87	,	"next_id":	0	},
+{	"id":	163	,	"type":	5	,	"x":	0.7	,	"tick":	42240	,	"hold_tick":	0	,	"page_index":	88	,	"next_id":	0	},
+{	"id":	164	,	"type":	0	,	"x":	0.6	,	"tick":	42480	,	"hold_tick":	0	,	"page_index":	88	,	"next_id":	0	},
+{	"id":	165	,	"type":	0	,	"x":	0.4	,	"tick":	42480	,	"hold_tick":	0	,	"page_index":	88	,	"next_id":	0	},
+{	"id":	166	,	"type":	0	,	"x":	0.25	,	"tick":	42960	,	"hold_tick":	0	,	"page_index":	89	,	"next_id":	0	},
+{	"id":	167	,	"type":	0	,	"x":	0.8	,	"tick":	43080	,	"hold_tick":	0	,	"page_index":	89	,	"next_id":	0	},
+{	"id":	168	,	"type":	1	,	"x":	0.15	,	"tick":	43200	,	"hold_tick":	480	,	"page_index":	90	,	"next_id":	0	},
+{	"id":	169	,	"type":	1	,	"x":	0.45	,	"tick":	43680	,	"hold_tick":	240	,	"page_index":	91	,	"next_id":	0	},
+{	"id":	170	,	"type":	0	,	"x":	0.7	,	"tick":	43920	,	"hold_tick":	0	,	"page_index":	91	,	"next_id":	0	},
+{	"id":	171	,	"type":	0	,	"x":	0.45	,	"tick":	44160	,	"hold_tick":	0	,	"page_index":	92	,	"next_id":	0	},
+{	"id":	172	,	"type":	0	,	"x":	0.75	,	"tick":	44280	,	"hold_tick":	0	,	"page_index":	92	,	"next_id":	0	},
+{	"id":	173	,	"type":	0	,	"x":	0.2	,	"tick":	44400	,	"hold_tick":	0	,	"page_index":	92	,	"next_id":	0	},
+{	"id":	174	,	"type":	0	,	"x":	0.2	,	"tick":	44640	,	"hold_tick":	0	,	"page_index":	93	,	"next_id":	0	},
+{	"id":	175	,	"type":	0	,	"x":	0.65	,	"tick":	44880	,	"hold_tick":	0	,	"page_index":	93	,	"next_id":	0	},
+{	"id":	176	,	"type":	1	,	"x":	0.3	,	"tick":	45120	,	"hold_tick":	480	,	"page_index":	94	,	"next_id":	0	},
+{	"id":	177	,	"type":	0	,	"x":	0.35	,	"tick":	45840	,	"hold_tick":	0	,	"page_index":	95	,	"next_id":	0	},
+{	"id":	178	,	"type":	0	,	"x":	0.55	,	"tick":	45960	,	"hold_tick":	0	,	"page_index":	95	,	"next_id":	0	},
+{	"id":	179	,	"type":	1	,	"x":	0.7	,	"tick":	46080	,	"hold_tick":	480	,	"page_index":	96	,	"next_id":	0	},
+{	"id":	180	,	"type":	0	,	"x":	0.35	,	"tick":	46560	,	"hold_tick":	0	,	"page_index":	97	,	"next_id":	0	},
+{	"id":	181	,	"type":	0	,	"x":	0.2	,	"tick":	46800	,	"hold_tick":	0	,	"page_index":	97	,	"next_id":	0	},
+{	"id":	182	,	"type":	1	,	"x":	0.8	,	"tick":	47040	,	"hold_tick":	480	,	"page_index":	98	,	"next_id":	0	},
+{	"id":	183	,	"type":	1	,	"x":	0.3	,	"tick":	47520	,	"hold_tick":	495.28	,	"page_index":	99	,	"next_id":	0	},
+{	"id":	184	,	"type":	3	,	"x":	0.25	,	"tick":	48000	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	185	},
+{	"id":	185	,	"type":	4	,	"x":	0.35	,	"tick":	48060	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	186	},
+{	"id":	186	,	"type":	4	,	"x":	0.45	,	"tick":	48120	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	187	},
+{	"id":	187	,	"type":	4	,	"x":	0.55	,	"tick":	48180	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	188	},
+{	"id":	188	,	"type":	4	,	"x":	0.65	,	"tick":	48240	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	189	},
+{	"id":	189	,	"type":	4	,	"x":	0.5	,	"tick":	48300	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	190	},
+{	"id":	190	,	"type":	4	,	"x":	0.35	,	"tick":	48360	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	191	},
+{	"id":	191	,	"type":	4	,	"x":	0.2	,	"tick":	48420	,	"hold_tick":	0	,	"page_index":	100	,	"next_id":	-1	},
+{	"id":	192	,	"type":	3	,	"x":	0.65	,	"tick":	48480	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	193	},
+{	"id":	193	,	"type":	4	,	"x":	0.6	,	"tick":	48540	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	194	},
+{	"id":	194	,	"type":	4	,	"x":	0.55	,	"tick":	48600	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	195	},
+{	"id":	195	,	"type":	4	,	"x":	0.5	,	"tick":	48660	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	196	},
+{	"id":	196	,	"type":	4	,	"x":	0.45	,	"tick":	48720	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	197	},
+{	"id":	197	,	"type":	4	,	"x":	0.4	,	"tick":	48780	,	"hold_tick":	0	,	"page_index":	101	,	"next_id":	-1	},
+{	"id":	198	,	"type":	3	,	"x":	0.5	,	"tick":	48960	,	"hold_tick":	0	,	"page_index":	102	,	"next_id":	199	},
+{	"id":	199	,	"type":	4	,	"x":	0.55	,	"tick":	49020	,	"hold_tick":	0	,	"page_index":	102	,	"next_id":	200	},
+{	"id":	200	,	"type":	4	,	"x":	0.6	,	"tick":	49080	,	"hold_tick":	0	,	"page_index":	102	,	"next_id":	201	},
+{	"id":	201	,	"type":	4	,	"x":	0.65	,	"tick":	49140	,	"hold_tick":	0	,	"page_index":	102	,	"next_id":	-1	},
+{	"id":	202	,	"type":	0	,	"x":	0.75	,	"tick":	49320	,	"hold_tick":	0	,	"page_index":	102	,	"next_id":	0	},
+{	"id":	203	,	"type":	0	,	"x":	0.2	,	"tick":	49440	,	"hold_tick":	0	,	"page_index":	103	,	"next_id":	0	},
+{	"id":	204	,	"type":	0	,	"x":	0.6	,	"tick":	49560	,	"hold_tick":	0	,	"page_index":	103	,	"next_id":	0	},
+{	"id":	205	,	"type":	0	,	"x":	0.3	,	"tick":	49680	,	"hold_tick":	0	,	"page_index":	103	,	"next_id":	0	},
+{	"id":	206	,	"type":	5	,	"x":	0.75	,	"tick":	49920	,	"hold_tick":	0	,	"page_index":	104	,	"next_id":	0	},
+{	"id":	207	,	"type":	5	,	"x":	0.2	,	"tick":	50040	,	"hold_tick":	0	,	"page_index":	104	,	"next_id":	0	},
+{	"id":	208	,	"type":	5	,	"x":	0.75	,	"tick":	50160	,	"hold_tick":	0	,	"page_index":	104	,	"next_id":	0	},
+{	"id":	209	,	"type":	5	,	"x":	0.2	,	"tick":	50280	,	"hold_tick":	0	,	"page_index":	104	,	"next_id":	0	},
+{	"id":	210	,	"type":	5	,	"x":	0.35	,	"tick":	50400	,	"hold_tick":	0	,	"page_index":	105	,	"next_id":	0	},
+{	"id":	211	,	"type":	5	,	"x":	0.9	,	"tick":	50520	,	"hold_tick":	0	,	"page_index":	105	,	"next_id":	0	},
+{	"id":	212	,	"type":	5	,	"x":	0.35	,	"tick":	50640	,	"hold_tick":	0	,	"page_index":	105	,	"next_id":	0	},
+{	"id":	213	,	"type":	5	,	"x":	0.9	,	"tick":	50760	,	"hold_tick":	0	,	"page_index":	105	,	"next_id":	0	},
+{	"id":	214	,	"type":	1	,	"x":	0.65	,	"tick":	50880	,	"hold_tick":	480	,	"page_index":	106	,	"next_id":	0	},
+{	"id":	215	,	"type":	0	,	"x":	0.25	,	"tick":	51360	,	"hold_tick":	0	,	"page_index":	107	,	"next_id":	0	},
+{	"id":	216	,	"type":	0	,	"x":	0.75	,	"tick":	51480	,	"hold_tick":	0	,	"page_index":	107	,	"next_id":	0	},
+{	"id":	217	,	"type":	1	,	"x":	0.25	,	"tick":	51600	,	"hold_tick":	240	,	"page_index":	107	,	"next_id":	0	},
+{	"id":	218	,	"type":	1	,	"x":	0.7	,	"tick":	51840	,	"hold_tick":	480	,	"page_index":	108	,	"next_id":	0	},
+{	"id":	219	,	"type":	3	,	"x":	0.05	,	"tick":	52320	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	220	},
+{	"id":	220	,	"type":	4	,	"x":	0.2	,	"tick":	52380	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	221	},
+{	"id":	221	,	"type":	4	,	"x":	0.1	,	"tick":	52440	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	222	},
+{	"id":	222	,	"type":	4	,	"x":	0.25	,	"tick":	52500	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	223	},
+{	"id":	223	,	"type":	4	,	"x":	0.15	,	"tick":	52560	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	224	},
+{	"id":	224	,	"type":	4	,	"x":	0.3	,	"tick":	52620	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	225	},
+{	"id":	225	,	"type":	4	,	"x":	0.2	,	"tick":	52680	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	226	},
+{	"id":	226	,	"type":	4	,	"x":	0.35	,	"tick":	52740	,	"hold_tick":	0	,	"page_index":	109	,	"next_id":	-1	},
+{	"id":	227	,	"type":	3	,	"x":	0.65	,	"tick":	52800	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	228	},
+{	"id":	228	,	"type":	4	,	"x":	0.8	,	"tick":	52860	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	229	},
+{	"id":	229	,	"type":	4	,	"x":	0.7	,	"tick":	52920	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	230	},
+{	"id":	230	,	"type":	4	,	"x":	0.85	,	"tick":	52980	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	231	},
+{	"id":	231	,	"type":	4	,	"x":	0.75	,	"tick":	53040	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	232	},
+{	"id":	232	,	"type":	4	,	"x":	0.9	,	"tick":	53100	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	233	},
+{	"id":	233	,	"type":	4	,	"x":	0.8	,	"tick":	53160	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	234	},
+{	"id":	234	,	"type":	4	,	"x":	0.95	,	"tick":	53220	,	"hold_tick":	0	,	"page_index":	110	,	"next_id":	-1	},
+{	"id":	235	,	"type":	0	,	"x":	0.2	,	"tick":	53280	,	"hold_tick":	0	,	"page_index":	111	,	"next_id":	0	},
+{	"id":	236	,	"type":	0	,	"x":	0.4	,	"tick":	53400	,	"hold_tick":	0	,	"page_index":	111	,	"next_id":	0	},
+{	"id":	237	,	"type":	2	,	"x":	0.55	,	"tick":	53520	,	"hold_tick":	1920	,	"page_index":	111	,	"next_id":	0	},
+{	"id":	238	,	"type":	0	,	"x":	0.25	,	"tick":	55680	,	"hold_tick":	0	,	"page_index":	116	,	"next_id":	0	},
+{	"id":	239	,	"type":	0	,	"x":	0.75	,	"tick":	55680	,	"hold_tick":	0	,	"page_index":	116	,	"next_id":	0	},
+{	"id":	240	,	"type":	0	,	"x":	0.75	,	"tick":	55920	,	"hold_tick":	0	,	"page_index":	116	,	"next_id":	0	},
+{	"id":	241	,	"type":	0	,	"x":	0.25	,	"tick":	55920	,	"hold_tick":	0	,	"page_index":	116	,	"next_id":	0	},
+{	"id":	242	,	"type":	0	,	"x":	0.35	,	"tick":	56160	,	"hold_tick":	0	,	"page_index":	117	,	"next_id":	0	},
+{	"id":	243	,	"type":	2	,	"x":	0.65	,	"tick":	56280	,	"hold_tick":	600	,	"page_index":	117	,	"next_id":	0	},
+{	"id":	244	,	"type":	0	,	"x":	0.25	,	"tick":	56880	,	"hold_tick":	0	,	"page_index":	118	,	"next_id":	0	},
+{	"id":	245	,	"type":	1	,	"x":	0.4	,	"tick":	57120	,	"hold_tick":	480	,	"page_index":	119	,	"next_id":	0	},
+{	"id":	246	,	"type":	0	,	"x":	0.5	,	"tick":	57600	,	"hold_tick":	0	,	"page_index":	120	,	"next_id":	0	},
+{	"id":	247	,	"type":	1	,	"x":	0.75	,	"tick":	57720	,	"hold_tick":	240	,	"page_index":	120	,	"next_id":	0	},
+{	"id":	248	,	"type":	0	,	"x":	0.3	,	"tick":	58080	,	"hold_tick":	0	,	"page_index":	121	,	"next_id":	0	},
+{	"id":	249	,	"type":	0	,	"x":	0.55	,	"tick":	58200	,	"hold_tick":	0	,	"page_index":	121	,	"next_id":	0	},
+{	"id":	250	,	"type":	0	,	"x":	0.25	,	"tick":	58320	,	"hold_tick":	0	,	"page_index":	121	,	"next_id":	0	},
+{	"id":	251	,	"type":	0	,	"x":	0.75	,	"tick":	58560	,	"hold_tick":	0	,	"page_index":	122	,	"next_id":	0	},
+{	"id":	252	,	"type":	0	,	"x":	0.6	,	"tick":	58680	,	"hold_tick":	0	,	"page_index":	122	,	"next_id":	0	},
+{	"id":	253	,	"type":	0	,	"x":	0.85	,	"tick":	58800	,	"hold_tick":	0	,	"page_index":	122	,	"next_id":	0	},
+{	"id":	254	,	"type":	0	,	"x":	0.7	,	"tick":	58920	,	"hold_tick":	0	,	"page_index":	122	,	"next_id":	0	},
+{	"id":	255	,	"type":	1	,	"x":	0.3	,	"tick":	59040	,	"hold_tick":	440.56	,	"page_index":	123	,	"next_id":	0	},
+{	"id":	256	,	"type":	2	,	"x":	0.6	,	"tick":	59520	,	"hold_tick":	1321.68	,	"page_index":	124	,	"next_id":	0	},
+{	"id":	257	,	"type":	0	,	"x":	0.1	,	"tick":	64560	,	"hold_tick":	0	,	"page_index":	134	,	"next_id":	0	},
+{	"id":	258	,	"type":	0	,	"x":	0.9	,	"tick":	64800	,	"hold_tick":	0	,	"page_index":	135	,	"next_id":	0	},
+{	"id":	259	,	"type":	0	,	"x":	0.2	,	"tick":	65040	,	"hold_tick":	0	,	"page_index":	135	,	"next_id":	0	},
+{	"id":	260	,	"type":	0	,	"x":	0.85	,	"tick":	65280	,	"hold_tick":	0	,	"page_index":	136	,	"next_id":	0	},
+{	"id":	261	,	"type":	0	,	"x":	0.3	,	"tick":	65520	,	"hold_tick":	0	,	"page_index":	136	,	"next_id":	0	},
+{	"id":	262	,	"type":	0	,	"x":	0.8	,	"tick":	65760	,	"hold_tick":	0	,	"page_index":	137	,	"next_id":	0	},
+{	"id":	263	,	"type":	0	,	"x":	0.4	,	"tick":	66000	,	"hold_tick":	0	,	"page_index":	137	,	"next_id":	0	},
+{	"id":	264	,	"type":	0	,	"x":	0.75	,	"tick":	66240	,	"hold_tick":	0	,	"page_index":	138	,	"next_id":	0	},
+{	"id":	265	,	"type":	0	,	"x":	0.5	,	"tick":	66420	,	"hold_tick":	0	,	"page_index":	138	,	"next_id":	0	},
+{	"id":	266	,	"type":	0	,	"x":	0.75	,	"tick":	66600	,	"hold_tick":	0	,	"page_index":	138	,	"next_id":	0	},
+{	"id":	267	,	"type":	0	,	"x":	0.3	,	"tick":	66720	,	"hold_tick":	0	,	"page_index":	139	,	"next_id":	0	},
+{	"id":	268	,	"type":	0	,	"x":	0.65	,	"tick":	66900	,	"hold_tick":	0	,	"page_index":	139	,	"next_id":	0	},
+{	"id":	269	,	"type":	0	,	"x":	0.3	,	"tick":	67080	,	"hold_tick":	0	,	"page_index":	139	,	"next_id":	0	},
+{	"id":	270	,	"type":	0	,	"x":	0.6	,	"tick":	67200	,	"hold_tick":	0	,	"page_index":	140	,	"next_id":	0	},
+{	"id":	271	,	"type":	0	,	"x":	0.4	,	"tick":	67320	,	"hold_tick":	0	,	"page_index":	140	,	"next_id":	0	},
+{	"id":	272	,	"type":	0	,	"x":	0.6	,	"tick":	67440	,	"hold_tick":	0	,	"page_index":	140	,	"next_id":	0	},
+{	"id":	273	,	"type":	0	,	"x":	0.4	,	"tick":	67560	,	"hold_tick":	0	,	"page_index":	140	,	"next_id":	0	},
+{	"id":	274	,	"type":	0	,	"x":	0.75	,	"tick":	67680	,	"hold_tick":	0	,	"page_index":	141	,	"next_id":	0	},
+{	"id":	275	,	"type":	0	,	"x":	0.2	,	"tick":	67800	,	"hold_tick":	0	,	"page_index":	141	,	"next_id":	0	},
+{	"id":	276	,	"type":	0	,	"x":	0.75	,	"tick":	67920	,	"hold_tick":	0	,	"page_index":	141	,	"next_id":	0	},
+{	"id":	277	,	"type":	0	,	"x":	0.2	,	"tick":	68040	,	"hold_tick":	0	,	"page_index":	141	,	"next_id":	0	},
+{	"id":	278	,	"type":	0	,	"x":	0.7	,	"tick":	68160	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	0	},
+{	"id":	279	,	"type":	0	,	"x":	0.35	,	"tick":	68265	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	0	},
+{	"id":	280	,	"type":	3	,	"x":	0.5	,	"tick":	68340	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	281	},
+{	"id":	281	,	"type":	4	,	"x":	0.5	,	"tick":	68355	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	282	},
+{	"id":	282	,	"type":	4	,	"x":	0.5	,	"tick":	68370	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	283	},
+{	"id":	283	,	"type":	4	,	"x":	0.5	,	"tick":	68385	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	284	},
+{	"id":	284	,	"type":	4	,	"x":	0.5	,	"tick":	68400	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	285	},
+{	"id":	285	,	"type":	4	,	"x":	0.5	,	"tick":	68415	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	286	},
+{	"id":	286	,	"type":	4	,	"x":	0.5	,	"tick":	68430	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	287	},
+{	"id":	287	,	"type":	4	,	"x":	0.5	,	"tick":	68445	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	288	},
+{	"id":	288	,	"type":	4	,	"x":	0.5	,	"tick":	68460	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	289	},
+{	"id":	289	,	"type":	4	,	"x":	0.5	,	"tick":	68475	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	290	},
+{	"id":	290	,	"type":	4	,	"x":	0.5	,	"tick":	68490	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	291	},
+{	"id":	291	,	"type":	4	,	"x":	0.5	,	"tick":	68505	,	"hold_tick":	0	,	"page_index":	142	,	"next_id":	-1	},
+{	"id":	292	,	"type":	0	,	"x":	0.25	,	"tick":	68640	,	"hold_tick":	0	,	"page_index":	143	,	"next_id":	0	},
+{	"id":	293	,	"type":	0	,	"x":	0.75	,	"tick":	68760	,	"hold_tick":	0	,	"page_index":	143	,	"next_id":	0	},
+{	"id":	294	,	"type":	0	,	"x":	0.35	,	"tick":	68880	,	"hold_tick":	0	,	"page_index":	143	,	"next_id":	0	},
+{	"id":	295	,	"type":	0	,	"x":	0.35	,	"tick":	69120	,	"hold_tick":	0	,	"page_index":	144	,	"next_id":	0	},
+{	"id":	296	,	"type":	0	,	"x":	0.65	,	"tick":	69240	,	"hold_tick":	0	,	"page_index":	144	,	"next_id":	0	},
+{	"id":	297	,	"type":	1	,	"x":	0.25	,	"tick":	69360	,	"hold_tick":	241.92	,	"page_index":	144	,	"next_id":	0	},
+{	"id":	298	,	"type":	0	,	"x":	0.55	,	"tick":	69600	,	"hold_tick":	0	,	"page_index":	145	,	"next_id":	0	},
+{	"id":	299	,	"type":	0	,	"x":	0.35	,	"tick":	69960	,	"hold_tick":	0	,	"page_index":	145	,	"next_id":	0	},
+{	"id":	300	,	"type":	0	,	"x":	0.65	,	"tick":	70080	,	"hold_tick":	0	,	"page_index":	146	,	"next_id":	0	},
+{	"id":	301	,	"type":	0	,	"x":	0.4	,	"tick":	70320	,	"hold_tick":	0	,	"page_index":	146	,	"next_id":	0	},
+{	"id":	302	,	"type":	0	,	"x":	0.65	,	"tick":	70440	,	"hold_tick":	0	,	"page_index":	146	,	"next_id":	0	},
+{	"id":	303	,	"type":	0	,	"x":	0.25	,	"tick":	70560	,	"hold_tick":	0	,	"page_index":	147	,	"next_id":	0	},
+{	"id":	304	,	"type":	0	,	"x":	0.8	,	"tick":	70680	,	"hold_tick":	0	,	"page_index":	147	,	"next_id":	0	},
+{	"id":	305	,	"type":	1	,	"x":	0.25	,	"tick":	70800	,	"hold_tick":	245.76	,	"page_index":	147	,	"next_id":	0	},
+{	"id":	306	,	"type":	0	,	"x":	0.6	,	"tick":	71040	,	"hold_tick":	0	,	"page_index":	148	,	"next_id":	0	},
+{	"id":	307	,	"type":	0	,	"x":	0.6	,	"tick":	71280	,	"hold_tick":	0	,	"page_index":	148	,	"next_id":	0	},
+{	"id":	308	,	"type":	0	,	"x":	0.4	,	"tick":	71400	,	"hold_tick":	0	,	"page_index":	148	,	"next_id":	0	},
+{	"id":	309	,	"type":	0	,	"x":	0.25	,	"tick":	71520	,	"hold_tick":	0	,	"page_index":	149	,	"next_id":	0	},
+{	"id":	310	,	"type":	0	,	"x":	0.8	,	"tick":	71640	,	"hold_tick":	0	,	"page_index":	149	,	"next_id":	0	},
+{	"id":	311	,	"type":	1	,	"x":	0.25	,	"tick":	71760	,	"hold_tick":	238.12	,	"page_index":	149	,	"next_id":	0	},
+{	"id":	312	,	"type":	0	,	"x":	0.75	,	"tick":	72000	,	"hold_tick":	0	,	"page_index":	150	,	"next_id":	0	},
+{	"id":	313	,	"type":	0	,	"x":	0.7	,	"tick":	72360	,	"hold_tick":	0	,	"page_index":	150	,	"next_id":	0	},
+{	"id":	314	,	"type":	0	,	"x":	0.4	,	"tick":	72480	,	"hold_tick":	0	,	"page_index":	151	,	"next_id":	0	},
+{	"id":	315	,	"type":	0	,	"x":	0.3	,	"tick":	72720	,	"hold_tick":	0	,	"page_index":	151	,	"next_id":	0	},
+{	"id":	316	,	"type":	0	,	"x":	0.6	,	"tick":	72840	,	"hold_tick":	0	,	"page_index":	151	,	"next_id":	0	},
+{	"id":	317	,	"type":	0	,	"x":	0.2	,	"tick":	72960	,	"hold_tick":	0	,	"page_index":	152	,	"next_id":	0	},
+{	"id":	318	,	"type":	0	,	"x":	0.75	,	"tick":	73080	,	"hold_tick":	0	,	"page_index":	152	,	"next_id":	0	},
+{	"id":	319	,	"type":	1	,	"x":	0.4	,	"tick":	73200	,	"hold_tick":	245.68	,	"page_index":	152	,	"next_id":	0	},
+{	"id":	320	,	"type":	0	,	"x":	0.7	,	"tick":	73440	,	"hold_tick":	0	,	"page_index":	153	,	"next_id":	0	},
+{	"id":	321	,	"type":	0	,	"x":	0.1	,	"tick":	73680	,	"hold_tick":	0	,	"page_index":	153	,	"next_id":	0	},
+{	"id":	322	,	"type":	0	,	"x":	0.9	,	"tick":	73800	,	"hold_tick":	0	,	"page_index":	153	,	"next_id":	0	},
+{	"id":	323	,	"type":	0	,	"x":	0.25	,	"tick":	73920	,	"hold_tick":	0	,	"page_index":	154	,	"next_id":	0	},
+{	"id":	324	,	"type":	0	,	"x":	0.75	,	"tick":	74040	,	"hold_tick":	0	,	"page_index":	154	,	"next_id":	0	},
+{	"id":	325	,	"type":	5	,	"x":	0.25	,	"tick":	74160	,	"hold_tick":	0	,	"page_index":	154	,	"next_id":	0	},
+{	"id":	326	,	"type":	5	,	"x":	0.75	,	"tick":	74280	,	"hold_tick":	0	,	"page_index":	154	,	"next_id":	0	},
+{	"id":	327	,	"type":	5	,	"x":	0.4	,	"tick":	74400	,	"hold_tick":	0	,	"page_index":	155	,	"next_id":	0	},
+{	"id":	328	,	"type":	5	,	"x":	0.6	,	"tick":	74520	,	"hold_tick":	0	,	"page_index":	155	,	"next_id":	0	},
+{	"id":	329	,	"type":	0	,	"x":	0.35	,	"tick":	74880	,	"hold_tick":	0	,	"page_index":	156	,	"next_id":	0	},
+{	"id":	330	,	"type":	0	,	"x":	0.65	,	"tick":	75000	,	"hold_tick":	0	,	"page_index":	156	,	"next_id":	0	},
+{	"id":	331	,	"type":	0	,	"x":	0.35	,	"tick":	75120	,	"hold_tick":	0	,	"page_index":	156	,	"next_id":	0	},
+{	"id":	332	,	"type":	5	,	"x":	0.65	,	"tick":	75240	,	"hold_tick":	0	,	"page_index":	156	,	"next_id":	0	},
+{	"id":	333	,	"type":	5	,	"x":	0.2	,	"tick":	75360	,	"hold_tick":	0	,	"page_index":	157	,	"next_id":	0	},
+{	"id":	334	,	"type":	5	,	"x":	0.45	,	"tick":	75480	,	"hold_tick":	0	,	"page_index":	157	,	"next_id":	0	},
+{	"id":	335	,	"type":	0	,	"x":	0.3	,	"tick":	75840	,	"hold_tick":	0	,	"page_index":	158	,	"next_id":	0	},
+{	"id":	336	,	"type":	0	,	"x":	0.65	,	"tick":	76080	,	"hold_tick":	0	,	"page_index":	158	,	"next_id":	0	},
+{	"id":	337	,	"type":	0	,	"x":	0.35	,	"tick":	76200	,	"hold_tick":	0	,	"page_index":	158	,	"next_id":	0	},
+{	"id":	338	,	"type":	0	,	"x":	0.2	,	"tick":	76320	,	"hold_tick":	0	,	"page_index":	159	,	"next_id":	0	},
+{	"id":	339	,	"type":	0	,	"x":	0.75	,	"tick":	76440	,	"hold_tick":	0	,	"page_index":	159	,	"next_id":	0	},
+{	"id":	340	,	"type":	0	,	"x":	0.3	,	"tick":	76800	,	"hold_tick":	0	,	"page_index":	160	,	"next_id":	0	},
+{	"id":	341	,	"type":	0	,	"x":	0.65	,	"tick":	76920	,	"hold_tick":	0	,	"page_index":	160	,	"next_id":	0	},
+{	"id":	342	,	"type":	0	,	"x":	0.25	,	"tick":	77280	,	"hold_tick":	0	,	"page_index":	161	,	"next_id":	0	},
+{	"id":	343	,	"type":	0	,	"x":	0.7	,	"tick":	77400	,	"hold_tick":	0	,	"page_index":	161	,	"next_id":	0	},
+{	"id":	344	,	"type":	0	,	"x":	0.3	,	"tick":	77760	,	"hold_tick":	0	,	"page_index":	162	,	"next_id":	0	},
+{	"id":	345	,	"type":	0	,	"x":	0.5	,	"tick":	78120	,	"hold_tick":	0	,	"page_index":	162	,	"next_id":	0	},
+{	"id":	346	,	"type":	0	,	"x":	0.75	,	"tick":	78240	,	"hold_tick":	0	,	"page_index":	163	,	"next_id":	0	},
+{	"id":	347	,	"type":	0	,	"x":	0.25	,	"tick":	78360	,	"hold_tick":	0	,	"page_index":	163	,	"next_id":	0	},
+{	"id":	348	,	"type":	0	,	"x":	0.75	,	"tick":	78480	,	"hold_tick":	0	,	"page_index":	163	,	"next_id":	0	},
+{	"id":	349	,	"type":	0	,	"x":	0.35	,	"tick":	78600	,	"hold_tick":	0	,	"page_index":	163	,	"next_id":	0	},
+{	"id":	350	,	"type":	1	,	"x":	0.6	,	"tick":	78720	,	"hold_tick":	488.24	,	"page_index":	164	,	"next_id":	0	},
+{	"id":	351	,	"type":	0	,	"x":	0.1	,	"tick":	78780	,	"hold_tick":	0	,	"page_index":	164	,	"next_id":	0	},
+{	"id":	352	,	"type":	0	,	"x":	0.25	,	"tick":	78840	,	"hold_tick":	0	,	"page_index":	164	,	"next_id":	0	},
+{	"id":	353	,	"type":	0	,	"x":	0.2	,	"tick":	79020	,	"hold_tick":	0	,	"page_index":	164	,	"next_id":	0	},
+{	"id":	354	,	"type":	0	,	"x":	0.4	,	"tick":	79080	,	"hold_tick":	0	,	"page_index":	164	,	"next_id":	0	},
+{	"id":	355	,	"type":	1	,	"x":	0.65	,	"tick":	79200	,	"hold_tick":	240	,	"page_index":	165	,	"next_id":	0	},
+{	"id":	356	,	"type":	0	,	"x":	0.2	,	"tick":	79560	,	"hold_tick":	0	,	"page_index":	165	,	"next_id":	0	},
+{	"id":	357	,	"type":	0	,	"x":	0.45	,	"tick":	79680	,	"hold_tick":	0	,	"page_index":	166	,	"next_id":	0	},
+{	"id":	358	,	"type":	0	,	"x":	0.8	,	"tick":	79920	,	"hold_tick":	0	,	"page_index":	166	,	"next_id":	0	},
+{	"id":	359	,	"type":	0	,	"x":	0.4	,	"tick":	80040	,	"hold_tick":	0	,	"page_index":	166	,	"next_id":	0	},
+{	"id":	360	,	"type":	1	,	"x":	0.25	,	"tick":	80160	,	"hold_tick":	240	,	"page_index":	167	,	"next_id":	0	},
+{	"id":	361	,	"type":	0	,	"x":	0.6	,	"tick":	80520	,	"hold_tick":	0	,	"page_index":	167	,	"next_id":	0	},
+{	"id":	362	,	"type":	0	,	"x":	0.25	,	"tick":	80640	,	"hold_tick":	0	,	"page_index":	168	,	"next_id":	0	},
+{	"id":	363	,	"type":	0	,	"x":	0.4	,	"tick":	81000	,	"hold_tick":	0	,	"page_index":	168	,	"next_id":	0	},
+{	"id":	364	,	"type":	0	,	"x":	0.65	,	"tick":	81120	,	"hold_tick":	0	,	"page_index":	169	,	"next_id":	0	},
+{	"id":	365	,	"type":	0	,	"x":	0.25	,	"tick":	81480	,	"hold_tick":	0	,	"page_index":	169	,	"next_id":	0	},
+{	"id":	366	,	"type":	0	,	"x":	0.55	,	"tick":	81600	,	"hold_tick":	0	,	"page_index":	170	,	"next_id":	0	},
+{	"id":	367	,	"type":	0	,	"x":	0.2	,	"tick":	81840	,	"hold_tick":	0	,	"page_index":	170	,	"next_id":	0	},
+{	"id":	368	,	"type":	0	,	"x":	0.85	,	"tick":	81960	,	"hold_tick":	0	,	"page_index":	170	,	"next_id":	0	},
+{	"id":	369	,	"type":	0	,	"x":	0.2	,	"tick":	82080	,	"hold_tick":	0	,	"page_index":	171	,	"next_id":	0	},
+{	"id":	370	,	"type":	0	,	"x":	0.7	,	"tick":	82200	,	"hold_tick":	0	,	"page_index":	171	,	"next_id":	0	},
+{	"id":	371	,	"type":	0	,	"x":	0.4	,	"tick":	82320	,	"hold_tick":	0	,	"page_index":	171	,	"next_id":	0	},
+{	"id":	372	,	"type":	0	,	"x":	0.7	,	"tick":	82440	,	"hold_tick":	0	,	"page_index":	171	,	"next_id":	0	},
+{	"id":	373	,	"type":	0	,	"x":	0.4	,	"tick":	82560	,	"hold_tick":	0	,	"page_index":	172	,	"next_id":	0	},
+{	"id":	374	,	"type":	0	,	"x":	0.25	,	"tick":	82800	,	"hold_tick":	0	,	"page_index":	172	,	"next_id":	0	},
+{	"id":	375	,	"type":	0	,	"x":	0.45	,	"tick":	83040	,	"hold_tick":	0	,	"page_index":	173	,	"next_id":	0	},
+{	"id":	376	,	"type":	1	,	"x":	0.7	,	"tick":	83160	,	"hold_tick":	240	,	"page_index":	173	,	"next_id":	0	},
+{	"id":	377	,	"type":	0	,	"x":	0.35	,	"tick":	83520	,	"hold_tick":	0	,	"page_index":	174	,	"next_id":	0	},
+{	"id":	378	,	"type":	0	,	"x":	0.55	,	"tick":	83640	,	"hold_tick":	0	,	"page_index":	174	,	"next_id":	0	},
+{	"id":	379	,	"type":	1	,	"x":	0.25	,	"tick":	83760	,	"hold_tick":	240	,	"page_index":	174	,	"next_id":	0	},
+{	"id":	380	,	"type":	0	,	"x":	0.6	,	"tick":	84000	,	"hold_tick":	0	,	"page_index":	175	,	"next_id":	0	},
+{	"id":	381	,	"type":	0	,	"x":	0.4	,	"tick":	84240	,	"hold_tick":	0	,	"page_index":	175	,	"next_id":	0	},
+{	"id":	382	,	"type":	0	,	"x":	0.65	,	"tick":	84360	,	"hold_tick":	0	,	"page_index":	175	,	"next_id":	0	},
+{	"id":	383	,	"type":	1	,	"x":	0.8	,	"tick":	84480	,	"hold_tick":	240	,	"page_index":	176	,	"next_id":	0	},
+{	"id":	384	,	"type":	0	,	"x":	0.3	,	"tick":	84840	,	"hold_tick":	0	,	"page_index":	176	,	"next_id":	0	},
+{	"id":	385	,	"type":	0	,	"x":	0.6	,	"tick":	84960	,	"hold_tick":	0	,	"page_index":	177	,	"next_id":	0	},
+{	"id":	386	,	"type":	0	,	"x":	0.2	,	"tick":	85200	,	"hold_tick":	0	,	"page_index":	177	,	"next_id":	0	},
+{	"id":	387	,	"type":	0	,	"x":	0.55	,	"tick":	85320	,	"hold_tick":	0	,	"page_index":	177	,	"next_id":	0	},
+{	"id":	388	,	"type":	0	,	"x":	0.4	,	"tick":	85680	,	"hold_tick":	0	,	"page_index":	178	,	"next_id":	0	},
+{	"id":	389	,	"type":	0	,	"x":	0.6	,	"tick":	85800	,	"hold_tick":	0	,	"page_index":	178	,	"next_id":	0	},
+{	"id":	390	,	"type":	0	,	"x":	0.45	,	"tick":	86040	,	"hold_tick":	0	,	"page_index":	179	,	"next_id":	0	},
+{	"id":	391	,	"type":	1	,	"x":	0.2	,	"tick":	86160	,	"hold_tick":	240	,	"page_index":	179	,	"next_id":	0	},
+{	"id":	392	,	"type":	5	,	"x":	0.35	,	"tick":	86640	,	"hold_tick":	0	,	"page_index":	180	,	"next_id":	0	},
+{	"id":	393	,	"type":	5	,	"x":	0.65	,	"tick":	86640	,	"hold_tick":	0	,	"page_index":	180	,	"next_id":	0	},
+{	"id":	394	,	"type":	5	,	"x":	0.35	,	"tick":	86880	,	"hold_tick":	0	,	"page_index":	181	,	"next_id":	0	},
+{	"id":	395	,	"type":	5	,	"x":	0.65	,	"tick":	86880	,	"hold_tick":	0	,	"page_index":	181	,	"next_id":	0	},
+{	"id":	396	,	"type":	1	,	"x":	0.8	,	"tick":	87000	,	"hold_tick":	240	,	"page_index":	181	,	"next_id":	0	},
+{	"id":	397	,	"type":	0	,	"x":	0.35	,	"tick":	87360	,	"hold_tick":	0	,	"page_index":	182	,	"next_id":	0	},
+{	"id":	398	,	"type":	0	,	"x":	0.25	,	"tick":	87600	,	"hold_tick":	0	,	"page_index":	182	,	"next_id":	0	},
+{	"id":	399	,	"type":	0	,	"x":	0.6	,	"tick":	87720	,	"hold_tick":	0	,	"page_index":	182	,	"next_id":	0	},
+{	"id":	400	,	"type":	0	,	"x":	0.2	,	"tick":	87840	,	"hold_tick":	0	,	"page_index":	183	,	"next_id":	0	},
+{	"id":	401	,	"type":	0	,	"x":	0.5	,	"tick":	87960	,	"hold_tick":	0	,	"page_index":	183	,	"next_id":	0	},
+{	"id":	402	,	"type":	1	,	"x":	0.7	,	"tick":	88080	,	"hold_tick":	240	,	"page_index":	183	,	"next_id":	0	},
+{	"id":	403	,	"type":	0	,	"x":	0.35	,	"tick":	88320	,	"hold_tick":	0	,	"page_index":	184	,	"next_id":	0	},
+{	"id":	404	,	"type":	0	,	"x":	0.35	,	"tick":	88680	,	"hold_tick":	0	,	"page_index":	184	,	"next_id":	0	},
+{	"id":	405	,	"type":	1	,	"x":	0.75	,	"tick":	88800	,	"hold_tick":	360	,	"page_index":	185	,	"next_id":	0	},
+{	"id":	406	,	"type":	3	,	"x":	0.3	,	"tick":	89280	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	407	},
+{	"id":	407	,	"type":	4	,	"x":	0.2	,	"tick":	89340	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	408	},
+{	"id":	408	,	"type":	4	,	"x":	0.3	,	"tick":	89400	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	409	},
+{	"id":	409	,	"type":	4	,	"x":	0.15	,	"tick":	89460	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	410	},
+{	"id":	410	,	"type":	4	,	"x":	0.25	,	"tick":	89520	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	411	},
+{	"id":	411	,	"type":	4	,	"x":	0.15	,	"tick":	89580	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	412	},
+{	"id":	412	,	"type":	4	,	"x":	0.3	,	"tick":	89640	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	413	},
+{	"id":	413	,	"type":	4	,	"x":	0.2	,	"tick":	89700	,	"hold_tick":	0	,	"page_index":	186	,	"next_id":	-1	},
+{	"id":	414	,	"type":	3	,	"x":	0.7	,	"tick":	89760	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	415	},
+{	"id":	415	,	"type":	4	,	"x":	0.8	,	"tick":	89820	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	416	},
+{	"id":	416	,	"type":	4	,	"x":	0.7	,	"tick":	89880	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	417	},
+{	"id":	417	,	"type":	4	,	"x":	0.85	,	"tick":	89940	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	418	},
+{	"id":	418	,	"type":	4	,	"x":	0.75	,	"tick":	90000	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	419	},
+{	"id":	419	,	"type":	4	,	"x":	0.85	,	"tick":	90060	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	420	},
+{	"id":	420	,	"type":	4	,	"x":	0.7	,	"tick":	90120	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	421	},
+{	"id":	421	,	"type":	4	,	"x":	0.8	,	"tick":	90180	,	"hold_tick":	0	,	"page_index":	187	,	"next_id":	-1	},
+{	"id":	422	,	"type":	0	,	"x":	0.45	,	"tick":	90480	,	"hold_tick":	0	,	"page_index":	188	,	"next_id":	0	},
+{	"id":	423	,	"type":	0	,	"x":	0.25	,	"tick":	90600	,	"hold_tick":	0	,	"page_index":	188	,	"next_id":	0	},
+{	"id":	424	,	"type":	0	,	"x":	0.5	,	"tick":	90720	,	"hold_tick":	0	,	"page_index":	189	,	"next_id":	0	},
+{	"id":	425	,	"type":	0	,	"x":	0.7	,	"tick":	90840	,	"hold_tick":	0	,	"page_index":	189	,	"next_id":	0	},
+{	"id":	426	,	"type":	0	,	"x":	0.2	,	"tick":	90960	,	"hold_tick":	0	,	"page_index":	189	,	"next_id":	0	},
+{	"id":	427	,	"type":	1	,	"x":	0.65	,	"tick":	91200	,	"hold_tick":	240	,	"page_index":	190	,	"next_id":	0	},
+{	"id":	428	,	"type":	0	,	"x":	0.35	,	"tick":	91440	,	"hold_tick":	0	,	"page_index":	190	,	"next_id":	0	},
+{	"id":	429	,	"type":	0	,	"x":	0.65	,	"tick":	91560	,	"hold_tick":	0	,	"page_index":	190	,	"next_id":	0	},
+{	"id":	430	,	"type":	1	,	"x":	0.2	,	"tick":	91680	,	"hold_tick":	240	,	"page_index":	191	,	"next_id":	0	},
+{	"id":	431	,	"type":	0	,	"x":	0.35	,	"tick":	92040	,	"hold_tick":	0	,	"page_index":	191	,	"next_id":	0	},
+{	"id":	432	,	"type":	0	,	"x":	0.5	,	"tick":	92160	,	"hold_tick":	0	,	"page_index":	192	,	"next_id":	0	},
+{	"id":	433	,	"type":	0	,	"x":	0.85	,	"tick":	92280	,	"hold_tick":	0	,	"page_index":	192	,	"next_id":	0	},
+{	"id":	434	,	"type":	0	,	"x":	0.6	,	"tick":	92400	,	"hold_tick":	0	,	"page_index":	192	,	"next_id":	0	},
+{	"id":	435	,	"type":	0	,	"x":	0.6	,	"tick":	92640	,	"hold_tick":	0	,	"page_index":	193	,	"next_id":	0	},
+{	"id":	436	,	"type":	1	,	"x":	0.3	,	"tick":	92760	,	"hold_tick":	180	,	"page_index":	193	,	"next_id":	0	},
+{	"id":	437	,	"type":	0	,	"x":	0.55	,	"tick":	93120	,	"hold_tick":	0	,	"page_index":	194	,	"next_id":	0	},
+{	"id":	438	,	"type":	0	,	"x":	0.8	,	"tick":	93360	,	"hold_tick":	0	,	"page_index":	194	,	"next_id":	0	},
+{	"id":	439	,	"type":	0	,	"x":	0.4	,	"tick":	93480	,	"hold_tick":	0	,	"page_index":	194	,	"next_id":	0	},
+{	"id":	440	,	"type":	1	,	"x":	0.25	,	"tick":	93600	,	"hold_tick":	480	,	"page_index":	195	,	"next_id":	0	},
+{	"id":	441	,	"type":	0	,	"x":	0.6	,	"tick":	94320	,	"hold_tick":	0	,	"page_index":	196	,	"next_id":	0	},
+{	"id":	442	,	"type":	0	,	"x":	0.4	,	"tick":	94440	,	"hold_tick":	0	,	"page_index":	196	,	"next_id":	0	},
+{	"id":	443	,	"type":	1	,	"x":	0.75	,	"tick":	94560	,	"hold_tick":	480	,	"page_index":	197	,	"next_id":	0	},
+{	"id":	444	,	"type":	5	,	"x":	0.3	,	"tick":	95040	,	"hold_tick":	0	,	"page_index":	198	,	"next_id":	0	},
+{	"id":	445	,	"type":	0	,	"x":	0.25	,	"tick":	95280	,	"hold_tick":	0	,	"page_index":	198	,	"next_id":	0	},
+{	"id":	446	,	"type":	0	,	"x":	0.5	,	"tick":	95400	,	"hold_tick":	0	,	"page_index":	198	,	"next_id":	0	},
+{	"id":	447	,	"type":	1	,	"x":	0.75	,	"tick":	95520	,	"hold_tick":	240	,	"page_index":	199	,	"next_id":	0	},
+{	"id":	448	,	"type":	1	,	"x":	0.4	,	"tick":	95760	,	"hold_tick":	240	,	"page_index":	199	,	"next_id":	0	},
+{	"id":	449	,	"type":	5	,	"x":	0.65	,	"tick":	96000	,	"hold_tick":	0	,	"page_index":	200	,	"next_id":	0	},
+{	"id":	450	,	"type":	0	,	"x":	0.2	,	"tick":	96240	,	"hold_tick":	0	,	"page_index":	200	,	"next_id":	0	},
+{	"id":	451	,	"type":	0	,	"x":	0.4	,	"tick":	96360	,	"hold_tick":	0	,	"page_index":	200	,	"next_id":	0	},
+{	"id":	452	,	"type":	1	,	"x":	0.55	,	"tick":	96480	,	"hold_tick":	240	,	"page_index":	201	,	"next_id":	0	},
+{	"id":	453	,	"type":	5	,	"x":	0.3	,	"tick":	96780	,	"hold_tick":	0	,	"page_index":	201	,	"next_id":	0	},
+{	"id":	454	,	"type":	5	,	"x":	0.55	,	"tick":	96960	,	"hold_tick":	0	,	"page_index":	202	,	"next_id":	0	},
+{	"id":	455	,	"type":	5	,	"x":	0.8	,	"tick":	97140	,	"hold_tick":	0	,	"page_index":	202	,	"next_id":	0	},
+{	"id":	456	,	"type":	5	,	"x":	0.35	,	"tick":	97320	,	"hold_tick":	0	,	"page_index":	202	,	"next_id":	0	},
+{	"id":	457	,	"type":	0	,	"x":	0.65	,	"tick":	97680	,	"hold_tick":	0	,	"page_index":	203	,	"next_id":	0	},
+{	"id":	458	,	"type":	0	,	"x":	0.25	,	"tick":	97680	,	"hold_tick":	0	,	"page_index":	203	,	"next_id":	0	},
+{	"id":	459	,	"type":	0	,	"x":	0.25	,	"tick":	97920	,	"hold_tick":	0	,	"page_index":	204	,	"next_id":	0	},
+{	"id":	460	,	"type":	0	,	"x":	0.65	,	"tick":	97920	,	"hold_tick":	0	,	"page_index":	204	,	"next_id":	0	},
+{	"id":	461	,	"type":	0	,	"x":	0.45	,	"tick":	98040	,	"hold_tick":	0	,	"page_index":	204	,	"next_id":	0	},
+{	"id":	462	,	"type":	0	,	"x":	0.45	,	"tick":	98160	,	"hold_tick":	0	,	"page_index":	204	,	"next_id":	0	},
+{	"id":	463	,	"type":	0	,	"x":	0.85	,	"tick":	98160	,	"hold_tick":	0	,	"page_index":	204	,	"next_id":	0	},
+{	"id":	464	,	"type":	0	,	"x":	0.85	,	"tick":	98400	,	"hold_tick":	0	,	"page_index":	205	,	"next_id":	0	},
+{	"id":	465	,	"type":	0	,	"x":	0.45	,	"tick":	98400	,	"hold_tick":	0	,	"page_index":	205	,	"next_id":	0	},
+{	"id":	466	,	"type":	0	,	"x":	0.2	,	"tick":	98640	,	"hold_tick":	0	,	"page_index":	205	,	"next_id":	0	},
+{	"id":	467	,	"type":	5	,	"x":	0.75	,	"tick":	98760	,	"hold_tick":	0	,	"page_index":	205	,	"next_id":	0	},
+{	"id":	468	,	"type":	0	,	"x":	0.35	,	"tick":	98880	,	"hold_tick":	0	,	"page_index":	206	,	"next_id":	0	},
+{	"id":	469	,	"type":	5	,	"x":	0.6	,	"tick":	99000	,	"hold_tick":	0	,	"page_index":	206	,	"next_id":	0	},
+{	"id":	470	,	"type":	0	,	"x":	0.4	,	"tick":	99120	,	"hold_tick":	0	,	"page_index":	206	,	"next_id":	0	},
+{	"id":	471	,	"type":	5	,	"x":	0.7	,	"tick":	99240	,	"hold_tick":	0	,	"page_index":	206	,	"next_id":	0	},
+{	"id":	472	,	"type":	0	,	"x":	0.25	,	"tick":	99360	,	"hold_tick":	0	,	"page_index":	207	,	"next_id":	0	},
+{	"id":	473	,	"type":	5	,	"x":	0.55	,	"tick":	99480	,	"hold_tick":	0	,	"page_index":	207	,	"next_id":	0	},
+{	"id":	474	,	"type":	0	,	"x":	0.2	,	"tick":	99600	,	"hold_tick":	0	,	"page_index":	207	,	"next_id":	0	},
+{	"id":	475	,	"type":	5	,	"x":	0.45	,	"tick":	99720	,	"hold_tick":	0	,	"page_index":	207	,	"next_id":	0	},
+{	"id":	476	,	"type":	0	,	"x":	0.45	,	"tick":	99840	,	"hold_tick":	0	,	"page_index":	208	,	"next_id":	0	},
+{	"id":	477	,	"type":	5	,	"x":	0.75	,	"tick":	99960	,	"hold_tick":	0	,	"page_index":	208	,	"next_id":	0	},
+{	"id":	478	,	"type":	0	,	"x":	0.35	,	"tick":	100080	,	"hold_tick":	0	,	"page_index":	208	,	"next_id":	0	},
+{	"id":	479	,	"type":	5	,	"x":	0.6	,	"tick":	100200	,	"hold_tick":	0	,	"page_index":	208	,	"next_id":	0	},
+{	"id":	480	,	"type":	0	,	"x":	0.2	,	"tick":	100320	,	"hold_tick":	0	,	"page_index":	209	,	"next_id":	0	},
+{	"id":	481	,	"type":	0	,	"x":	0.8	,	"tick":	100440	,	"hold_tick":	0	,	"page_index":	209	,	"next_id":	0	},
+{	"id":	482	,	"type":	0	,	"x":	0.2	,	"tick":	100560	,	"hold_tick":	0	,	"page_index":	209	,	"next_id":	0	},
+{	"id":	483	,	"type":	0	,	"x":	0.8	,	"tick":	100680	,	"hold_tick":	0	,	"page_index":	209	,	"next_id":	0	},
+{	"id":	484	,	"type":	0	,	"x":	0.35	,	"tick":	100800	,	"hold_tick":	0	,	"page_index":	210	,	"next_id":	0	},
+{	"id":	485	,	"type":	0	,	"x":	0.65	,	"tick":	100920	,	"hold_tick":	0	,	"page_index":	210	,	"next_id":	0	},
+{	"id":	486	,	"type":	0	,	"x":	0.35	,	"tick":	101040	,	"hold_tick":	0	,	"page_index":	210	,	"next_id":	0	},
+{	"id":	487	,	"type":	0	,	"x":	0.65	,	"tick":	101160	,	"hold_tick":	0	,	"page_index":	210	,	"next_id":	0	},
+{	"id":	488	,	"type":	0	,	"x":	0.25	,	"tick":	101400	,	"hold_tick":	0	,	"page_index":	211	,	"next_id":	0	},
+{	"id":	489	,	"type":	0	,	"x":	0.45	,	"tick":	101640	,	"hold_tick":	0	,	"page_index":	211	,	"next_id":	0	},
+{	"id":	490	,	"type":	2	,	"x":	0.85	,	"tick":	101760	,	"hold_tick":	2640	,	"page_index":	212	,	"next_id":	0	},
+{	"id":	491	,	"type":	0	,	"x":	0.2	,	"tick":	102000	,	"hold_tick":	0	,	"page_index":	212	,	"next_id":	0	},
+{	"id":	492	,	"type":	0	,	"x":	0.35	,	"tick":	102120	,	"hold_tick":	0	,	"page_index":	212	,	"next_id":	0	},
+{	"id":	493	,	"type":	0	,	"x":	0.45	,	"tick":	102240	,	"hold_tick":	0	,	"page_index":	213	,	"next_id":	0	},
+{	"id":	494	,	"type":	0	,	"x":	0.6	,	"tick":	102480	,	"hold_tick":	0	,	"page_index":	213	,	"next_id":	0	},
+{	"id":	495	,	"type":	0	,	"x":	0.2	,	"tick":	102960	,	"hold_tick":	0	,	"page_index":	214	,	"next_id":	0	},
+{	"id":	496	,	"type":	0	,	"x":	0.35	,	"tick":	103080	,	"hold_tick":	0	,	"page_index":	214	,	"next_id":	0	},
+{	"id":	497	,	"type":	0	,	"x":	0.45	,	"tick":	103200	,	"hold_tick":	0	,	"page_index":	215	,	"next_id":	0	},
+{	"id":	498	,	"type":	0	,	"x":	0.6	,	"tick":	103440	,	"hold_tick":	0	,	"page_index":	215	,	"next_id":	0	},
+{	"id":	499	,	"type":	0	,	"x":	0.25	,	"tick":	103920	,	"hold_tick":	0	,	"page_index":	216	,	"next_id":	0	},
+{	"id":	500	,	"type":	0	,	"x":	0.35	,	"tick":	104040	,	"hold_tick":	0	,	"page_index":	216	,	"next_id":	0	},
+{	"id":	501	,	"type":	0	,	"x":	0.45	,	"tick":	104160	,	"hold_tick":	0	,	"page_index":	217	,	"next_id":	0	},
+{	"id":	502	,	"type":	5	,	"x":	0.4	,	"tick":	104400	,	"hold_tick":	0	,	"page_index":	217	,	"next_id":	0	},
+{	"id":	503	,	"type":	5	,	"x":	0.55	,	"tick":	104520	,	"hold_tick":	0	,	"page_index":	217	,	"next_id":	0	},
+{	"id":	504	,	"type":	5	,	"x":	0.7	,	"tick":	104640	,	"hold_tick":	0	,	"page_index":	218	,	"next_id":	0	},
+{	"id":	505	,	"type":	5	,	"x":	0.2	,	"tick":	104760	,	"hold_tick":	0	,	"page_index":	218	,	"next_id":	0	},
+{	"id":	506	,	"type":	5	,	"x":	0.7	,	"tick":	104880	,	"hold_tick":	0	,	"page_index":	218	,	"next_id":	0	},
+{	"id":	507	,	"type":	5	,	"x":	0.2	,	"tick":	105000	,	"hold_tick":	0	,	"page_index":	218	,	"next_id":	0	},
+{	"id":	508	,	"type":	5	,	"x":	0.35	,	"tick":	105360	,	"hold_tick":	0	,	"page_index":	219	,	"next_id":	0	},
+{	"id":	509	,	"type":	5	,	"x":	0.55	,	"tick":	105600	,	"hold_tick":	0	,	"page_index":	220	,	"next_id":	0	},
+{	"id":	510	,	"type":	0	,	"x":	0.7	,	"tick":	105840	,	"hold_tick":	0	,	"page_index":	220	,	"next_id":	0	},
+{	"id":	511	,	"type":	0	,	"x":	0.4	,	"tick":	105960	,	"hold_tick":	0	,	"page_index":	220	,	"next_id":	0	},
+{	"id":	512	,	"type":	0	,	"x":	0.2	,	"tick":	106080	,	"hold_tick":	0	,	"page_index":	221	,	"next_id":	0	},
+{	"id":	513	,	"type":	0	,	"x":	0.2	,	"tick":	106320	,	"hold_tick":	0	,	"page_index":	221	,	"next_id":	0	},
+{	"id":	514	,	"type":	0	,	"x":	0.6	,	"tick":	106440	,	"hold_tick":	0	,	"page_index":	221	,	"next_id":	0	},
+{	"id":	515	,	"type":	0	,	"x":	0.5	,	"tick":	106800	,	"hold_tick":	0	,	"page_index":	222	,	"next_id":	0	},
+{	"id":	516	,	"type":	0	,	"x":	0.75	,	"tick":	107040	,	"hold_tick":	0	,	"page_index":	223	,	"next_id":	0	},
+{	"id":	517	,	"type":	0	,	"x":	0.2	,	"tick":	107280	,	"hold_tick":	0	,	"page_index":	223	,	"next_id":	0	},
+{	"id":	518	,	"type":	0	,	"x":	0.7	,	"tick":	107400	,	"hold_tick":	0	,	"page_index":	223	,	"next_id":	0	},
+{	"id":	519	,	"type":	0	,	"x":	0.25	,	"tick":	107520	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	0	},
+{	"id":	520	,	"type":	3	,	"x":	0.45	,	"tick":	107640	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	521	},
+{	"id":	521	,	"type":	4	,	"x":	0.55	,	"tick":	107700	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	522	},
+{	"id":	522	,	"type":	4	,	"x":	0.45	,	"tick":	107760	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	523	},
+{	"id":	523	,	"type":	4	,	"x":	0.55	,	"tick":	107820	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	524	},
+{	"id":	524	,	"type":	4	,	"x":	0.45	,	"tick":	107880	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	525	},
+{	"id":	525	,	"type":	4	,	"x":	0.55	,	"tick":	107940	,	"hold_tick":	0	,	"page_index":	224	,	"next_id":	-1	},
+{	"id":	526	,	"type":	1	,	"x":	0.25	,	"tick":	108000	,	"hold_tick":	240	,	"page_index":	225	,	"next_id":	0	},
+{	"id":	527	,	"type":	0	,	"x":	0.75	,	"tick":	108360	,	"hold_tick":	0	,	"page_index":	225	,	"next_id":	0	},
+{	"id":	528	,	"type":	0	,	"x":	0.35	,	"tick":	108480	,	"hold_tick":	0	,	"page_index":	226	,	"next_id":	0	},
+{	"id":	529	,	"type":	0	,	"x":	0.35	,	"tick":	108720	,	"hold_tick":	0	,	"page_index":	226	,	"next_id":	0	},
+{	"id":	530	,	"type":	0	,	"x":	0.5	,	"tick":	108840	,	"hold_tick":	0	,	"page_index":	226	,	"next_id":	0	},
+{	"id":	531	,	"type":	1	,	"x":	0.65	,	"tick":	108960	,	"hold_tick":	240	,	"page_index":	227	,	"next_id":	0	},
+{	"id":	532	,	"type":	0	,	"x":	0.2	,	"tick":	109320	,	"hold_tick":	0	,	"page_index":	227	,	"next_id":	0	},
+{	"id":	533	,	"type":	0	,	"x":	0.45	,	"tick":	109560	,	"hold_tick":	0	,	"page_index":	228	,	"next_id":	0	},
+{	"id":	534	,	"type":	0	,	"x":	0.75	,	"tick":	109800	,	"hold_tick":	0	,	"page_index":	228	,	"next_id":	0	},
+{	"id":	535	,	"type":	2	,	"x":	0.15	,	"tick":	110034.08	,	"hold_tick":	2645.92	,	"page_index":	229	,	"next_id":	0	},
+{	"id":	536	,	"type":	0	,	"x":	0.4	,	"tick":	110280	,	"hold_tick":	0	,	"page_index":	229	,	"next_id":	0	},
+{	"id":	537	,	"type":	0	,	"x":	0.65	,	"tick":	110400	,	"hold_tick":	0	,	"page_index":	230	,	"next_id":	0	},
+{	"id":	538	,	"type":	0	,	"x":	0.75	,	"tick":	110640	,	"hold_tick":	0	,	"page_index":	230	,	"next_id":	0	},
+{	"id":	539	,	"type":	0	,	"x":	0.6	,	"tick":	110760	,	"hold_tick":	0	,	"page_index":	230	,	"next_id":	0	},
+{	"id":	540	,	"type":	0	,	"x":	0.45	,	"tick":	111000	,	"hold_tick":	0	,	"page_index":	231	,	"next_id":	0	},
+{	"id":	541	,	"type":	0	,	"x":	0.6	,	"tick":	111120	,	"hold_tick":	0	,	"page_index":	231	,	"next_id":	0	},
+{	"id":	542	,	"type":	0	,	"x":	0.45	,	"tick":	111360	,	"hold_tick":	0	,	"page_index":	232	,	"next_id":	0	},
+{	"id":	543	,	"type":	0	,	"x":	0.65	,	"tick":	111480	,	"hold_tick":	0	,	"page_index":	232	,	"next_id":	0	},
+{	"id":	544	,	"type":	0	,	"x":	0.65	,	"tick":	111720	,	"hold_tick":	0	,	"page_index":	232	,	"next_id":	0	},
+{	"id":	545	,	"type":	0	,	"x":	0.5	,	"tick":	111840	,	"hold_tick":	0	,	"page_index":	233	,	"next_id":	0	},
+{	"id":	546	,	"type":	0	,	"x":	0.5	,	"tick":	111960	,	"hold_tick":	0	,	"page_index":	233	,	"next_id":	0	},
+{	"id":	547	,	"type":	0	,	"x":	0.5	,	"tick":	112200	,	"hold_tick":	0	,	"page_index":	233	,	"next_id":	0	},
+{	"id":	548	,	"type":	0	,	"x":	0.7	,	"tick":	112320	,	"hold_tick":	0	,	"page_index":	234	,	"next_id":	0	},
+{	"id":	549	,	"type":	0	,	"x":	0.7	,	"tick":	112680	,	"hold_tick":	0	,	"page_index":	234	,	"next_id":	0	},
+{	"id":	550	,	"type":	0	,	"x":	0.5	,	"tick":	112800	,	"hold_tick":	0	,	"page_index":	235	,	"next_id":	0	},
+{	"id":	551	,	"type":	0	,	"x":	0.3	,	"tick":	112920	,	"hold_tick":	0	,	"page_index":	235	,	"next_id":	0	},
+{	"id":	552	,	"type":	0	,	"x":	0.55	,	"tick":	113040	,	"hold_tick":	0	,	"page_index":	235	,	"next_id":	0	},
+{	"id":	553	,	"type":	0	,	"x":	0.4	,	"tick":	113280	,	"hold_tick":	0	,	"page_index":	236	,	"next_id":	0	},
+{	"id":	554	,	"type":	0	,	"x":	0.7	,	"tick":	113400	,	"hold_tick":	0	,	"page_index":	236	,	"next_id":	0	},
+{	"id":	555	,	"type":	0	,	"x":	0.7	,	"tick":	113640	,	"hold_tick":	0	,	"page_index":	236	,	"next_id":	0	},
+{	"id":	556	,	"type":	0	,	"x":	0.5	,	"tick":	113760	,	"hold_tick":	0	,	"page_index":	237	,	"next_id":	0	},
+{	"id":	557	,	"type":	0	,	"x":	0.3	,	"tick":	113880	,	"hold_tick":	0	,	"page_index":	237	,	"next_id":	0	},
+{	"id":	558	,	"type":	0	,	"x":	0.35	,	"tick":	114120	,	"hold_tick":	0	,	"page_index":	237	,	"next_id":	0	},
+{	"id":	559	,	"type":	0	,	"x":	0.65	,	"tick":	114240	,	"hold_tick":	0	,	"page_index":	238	,	"next_id":	0	},
+{	"id":	560	,	"type":	0	,	"x":	0.8	,	"tick":	114480	,	"hold_tick":	0	,	"page_index":	238	,	"next_id":	0	},
+{	"id":	561	,	"type":	0	,	"x":	0.5	,	"tick":	114600	,	"hold_tick":	0	,	"page_index":	238	,	"next_id":	0	},
+{	"id":	562	,	"type":	0	,	"x":	0.65	,	"tick":	114840	,	"hold_tick":	0	,	"page_index":	239	,	"next_id":	0	},
+{	"id":	563	,	"type":	0	,	"x":	0.25	,	"tick":	114960	,	"hold_tick":	0	,	"page_index":	239	,	"next_id":	0	},
+{	"id":	564	,	"type":	0	,	"x":	0.5	,	"tick":	115200	,	"hold_tick":	0	,	"page_index":	240	,	"next_id":	0	},
+{	"id":	565	,	"type":	0	,	"x":	0.75	,	"tick":	115320	,	"hold_tick":	0	,	"page_index":	240	,	"next_id":	0	},
+{	"id":	566	,	"type":	0	,	"x":	0.35	,	"tick":	115560	,	"hold_tick":	0	,	"page_index":	240	,	"next_id":	0	},
+{	"id":	567	,	"type":	0	,	"x":	0.55	,	"tick":	115680	,	"hold_tick":	0	,	"page_index":	241	,	"next_id":	0	},
+{	"id":	568	,	"type":	0	,	"x":	0.75	,	"tick":	115800	,	"hold_tick":	0	,	"page_index":	241	,	"next_id":	0	},
+{	"id":	569	,	"type":	0	,	"x":	0.4	,	"tick":	116040	,	"hold_tick":	0	,	"page_index":	241	,	"next_id":	0	},
+{	"id":	570	,	"type":	0	,	"x":	0.6	,	"tick":	116160	,	"hold_tick":	0	,	"page_index":	242	,	"next_id":	0	},
+{	"id":	571	,	"type":	0	,	"x":	0.7	,	"tick":	116400	,	"hold_tick":	0	,	"page_index":	242	,	"next_id":	0	},
+{	"id":	572	,	"type":	0	,	"x":	0.45	,	"tick":	116520	,	"hold_tick":	0	,	"page_index":	242	,	"next_id":	0	},
+{	"id":	573	,	"type":	1	,	"x":	0.2	,	"tick":	116640	,	"hold_tick":	480	,	"page_index":	243	,	"next_id":	0	},
+{	"id":	574	,	"type":	1	,	"x":	0.8	,	"tick":	117120	,	"hold_tick":	480	,	"page_index":	244	,	"next_id":	0	},
+{	"id":	575	,	"type":	5	,	"x":	0.35	,	"tick":	117600	,	"hold_tick":	0	,	"page_index":	245	,	"next_id":	0	},
+{	"id":	576	,	"type":	5	,	"x":	0.65	,	"tick":	117840	,	"hold_tick":	0	,	"page_index":	245	,	"next_id":	0	},
+{	"id":	577	,	"type":	5	,	"x":	0.65	,	"tick":	118080	,	"hold_tick":	0	,	"page_index":	246	,	"next_id":	0	},
+{	"id":	578	,	"type":	5	,	"x":	0.35	,	"tick":	118320	,	"hold_tick":	0	,	"page_index":	246	,	"next_id":	0	},
+{	"id":	579	,	"type":	5	,	"x":	0.35	,	"tick":	118560	,	"hold_tick":	0	,	"page_index":	247	,	"next_id":	0	},
+{	"id":	580	,	"type":	5	,	"x":	0.65	,	"tick":	118800	,	"hold_tick":	0	,	"page_index":	247	,	"next_id":	0	},
+{	"id":	581	,	"type":	5	,	"x":	0.65	,	"tick":	119040	,	"hold_tick":	0	,	"page_index":	248	,	"next_id":	0	},
+{	"id":	582	,	"type":	5	,	"x":	0.35	,	"tick":	119280	,	"hold_tick":	0	,	"page_index":	248	,	"next_id":	0	},
+{	"id":	583	,	"type":	5	,	"x":	0.35	,	"tick":	119520	,	"hold_tick":	0	,	"page_index":	249	,	"next_id":	0	},
+{	"id":	584	,	"type":	5	,	"x":	0.65	,	"tick":	119760	,	"hold_tick":	0	,	"page_index":	249	,	"next_id":	0	},
+{	"id":	585	,	"type":	5	,	"x":	0.65	,	"tick":	120000	,	"hold_tick":	0	,	"page_index":	250	,	"next_id":	0	},
+{	"id":	586	,	"type":	5	,	"x":	0.35	,	"tick":	120240	,	"hold_tick":	0	,	"page_index":	250	,	"next_id":	0	},
+{	"id":	587	,	"type":	5	,	"x":	0.35	,	"tick":	120480	,	"hold_tick":	0	,	"page_index":	251	,	"next_id":	0	},
+{	"id":	588	,	"type":	5	,	"x":	0.65	,	"tick":	120720	,	"hold_tick":	0	,	"page_index":	251	,	"next_id":	0	},
+{	"id":	589	,	"type":	5	,	"x":	0.65	,	"tick":	120960	,	"hold_tick":	0	,	"page_index":	252	,	"next_id":	0	},
+{	"id":	590	,	"type":	5	,	"x":	0.35	,	"tick":	121200	,	"hold_tick":	0	,	"page_index":	252	,	"next_id":	0	},
+{	"id":	591	,	"type":	0	,	"x":	0.75	,	"tick":	121440	,	"hold_tick":	0	,	"page_index":	253	,	"next_id":	0	},
+{	"id":	592	,	"type":	0	,	"x":	0.25	,	"tick":	121560	,	"hold_tick":	0	,	"page_index":	253	,	"next_id":	0	},
+{	"id":	593	,	"type":	0	,	"x":	0.75	,	"tick":	121680	,	"hold_tick":	0	,	"page_index":	253	,	"next_id":	0	},
+{	"id":	594	,	"type":	0	,	"x":	0.25	,	"tick":	121800	,	"hold_tick":	0	,	"page_index":	253	,	"next_id":	0	},
+{	"id":	595	,	"type":	0	,	"x":	0.25	,	"tick":	121920	,	"hold_tick":	0	,	"page_index":	254	,	"next_id":	0	},
+{	"id":	596	,	"type":	0	,	"x":	0.75	,	"tick":	122040	,	"hold_tick":	0	,	"page_index":	254	,	"next_id":	0	},
+{	"id":	597	,	"type":	0	,	"x":	0.25	,	"tick":	122160	,	"hold_tick":	0	,	"page_index":	254	,	"next_id":	0	},
+{	"id":	598	,	"type":	0	,	"x":	0.75	,	"tick":	122280	,	"hold_tick":	0	,	"page_index":	254	,	"next_id":	0	},
+{	"id":	599	,	"type":	0	,	"x":	0.75	,	"tick":	122400	,	"hold_tick":	0	,	"page_index":	255	,	"next_id":	0	},
+{	"id":	600	,	"type":	0	,	"x":	0.25	,	"tick":	122520	,	"hold_tick":	0	,	"page_index":	255	,	"next_id":	0	},
+{	"id":	601	,	"type":	0	,	"x":	0.75	,	"tick":	122640	,	"hold_tick":	0	,	"page_index":	255	,	"next_id":	0	},
+{	"id":	602	,	"type":	0	,	"x":	0.25	,	"tick":	122760	,	"hold_tick":	0	,	"page_index":	255	,	"next_id":	0	},
+{	"id":	603	,	"type":	0	,	"x":	0.25	,	"tick":	122880	,	"hold_tick":	0	,	"page_index":	256	,	"next_id":	0	},
+{	"id":	604	,	"type":	0	,	"x":	0.75	,	"tick":	123000	,	"hold_tick":	0	,	"page_index":	256	,	"next_id":	0	},
+{	"id":	605	,	"type":	0	,	"x":	0.25	,	"tick":	123120	,	"hold_tick":	0	,	"page_index":	256	,	"next_id":	0	},
+{	"id":	606	,	"type":	0	,	"x":	0.75	,	"tick":	123240	,	"hold_tick":	0	,	"page_index":	256	,	"next_id":	0	},
+{	"id":	607	,	"type":	3	,	"x":	0.15	,	"tick":	123360	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	609	},
+{	"id":	608	,	"type":	3	,	"x":	0.85	,	"tick":	123390	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	610	},
+{	"id":	609	,	"type":	4	,	"x":	0.2	,	"tick":	123420	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	611	},
+{	"id":	610	,	"type":	4	,	"x":	0.8	,	"tick":	123450	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	612	},
+{	"id":	611	,	"type":	4	,	"x":	0.25	,	"tick":	123480	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	613	},
+{	"id":	612	,	"type":	4	,	"x":	0.75	,	"tick":	123510	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	614	},
+{	"id":	613	,	"type":	4	,	"x":	0.3	,	"tick":	123540	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	615	},
+{	"id":	614	,	"type":	4	,	"x":	0.7	,	"tick":	123570	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	616	},
+{	"id":	615	,	"type":	4	,	"x":	0.35	,	"tick":	123600	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	617	},
+{	"id":	616	,	"type":	4	,	"x":	0.65	,	"tick":	123630	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	618	},
+{	"id":	617	,	"type":	4	,	"x":	0.4	,	"tick":	123660	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	619	},
+{	"id":	618	,	"type":	4	,	"x":	0.6	,	"tick":	123690	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	620	},
+{	"id":	619	,	"type":	4	,	"x":	0.35	,	"tick":	123720	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	621	},
+{	"id":	620	,	"type":	4	,	"x":	0.65	,	"tick":	123750	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	622	},
+{	"id":	621	,	"type":	4	,	"x":	0.3	,	"tick":	123780	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	-1	},
+{	"id":	622	,	"type":	4	,	"x":	0.7	,	"tick":	123810	,	"hold_tick":	0	,	"page_index":	257	,	"next_id":	-1	},
+{	"id":	623	,	"type":	3	,	"x":	0.15	,	"tick":	123840	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	625	},
+{	"id":	624	,	"type":	3	,	"x":	0.85	,	"tick":	123870	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	626	},
+{	"id":	625	,	"type":	4	,	"x":	0.2	,	"tick":	123900	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	627	},
+{	"id":	626	,	"type":	4	,	"x":	0.8	,	"tick":	123930	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	628	},
+{	"id":	627	,	"type":	4	,	"x":	0.25	,	"tick":	123960	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	629	},
+{	"id":	628	,	"type":	4	,	"x":	0.75	,	"tick":	123990	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	630	},
+{	"id":	629	,	"type":	4	,	"x":	0.3	,	"tick":	124020	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	631	},
+{	"id":	630	,	"type":	4	,	"x":	0.7	,	"tick":	124050	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	632	},
+{	"id":	631	,	"type":	4	,	"x":	0.35	,	"tick":	124080	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	633	},
+{	"id":	632	,	"type":	4	,	"x":	0.65	,	"tick":	124110	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	634	},
+{	"id":	633	,	"type":	4	,	"x":	0.4	,	"tick":	124140	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	635	},
+{	"id":	634	,	"type":	4	,	"x":	0.6	,	"tick":	124170	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	636	},
+{	"id":	635	,	"type":	4	,	"x":	0.35	,	"tick":	124200	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	637	},
+{	"id":	636	,	"type":	4	,	"x":	0.65	,	"tick":	124230	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	638	},
+{	"id":	637	,	"type":	4	,	"x":	0.3	,	"tick":	124260	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	-1	},
+{	"id":	638	,	"type":	4	,	"x":	0.7	,	"tick":	124290	,	"hold_tick":	0	,	"page_index":	258	,	"next_id":	-1	},
+{	"id":	639	,	"type":	3	,	"x":	0.15	,	"tick":	124320	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	641	},
+{	"id":	640	,	"type":	3	,	"x":	0.85	,	"tick":	124350	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	642	},
+{	"id":	641	,	"type":	4	,	"x":	0.2	,	"tick":	124380	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	643	},
+{	"id":	642	,	"type":	4	,	"x":	0.8	,	"tick":	124410	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	644	},
+{	"id":	643	,	"type":	4	,	"x":	0.25	,	"tick":	124440	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	645	},
+{	"id":	644	,	"type":	4	,	"x":	0.75	,	"tick":	124470	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	646	},
+{	"id":	645	,	"type":	4	,	"x":	0.15	,	"tick":	124500	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	647	},
+{	"id":	646	,	"type":	4	,	"x":	0.85	,	"tick":	124530	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	648	},
+{	"id":	647	,	"type":	4	,	"x":	0.15	,	"tick":	124560	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	649	},
+{	"id":	648	,	"type":	4	,	"x":	0.85	,	"tick":	124590	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	650	},
+{	"id":	649	,	"type":	4	,	"x":	0.15	,	"tick":	124620	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	651	},
+{	"id":	650	,	"type":	4	,	"x":	0.85	,	"tick":	124650	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	652	},
+{	"id":	651	,	"type":	4	,	"x":	0.15	,	"tick":	124680	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	653	},
+{	"id":	652	,	"type":	4	,	"x":	0.85	,	"tick":	124710	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	654	},
+{	"id":	653	,	"type":	4	,	"x":	0.15	,	"tick":	124740	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	-1	},
+{	"id":	654	,	"type":	4	,	"x":	0.85	,	"tick":	124770	,	"hold_tick":	0	,	"page_index":	259	,	"next_id":	-1	},
+{	"id":	655	,	"type":	3	,	"x":	0.4	,	"tick":	124800	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	657	},
+{	"id":	656	,	"type":	3	,	"x":	0.6	,	"tick":	124830	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	658	},
+{	"id":	657	,	"type":	4	,	"x":	0.4	,	"tick":	124860	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	659	},
+{	"id":	658	,	"type":	4	,	"x":	0.6	,	"tick":	124890	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	660	},
+{	"id":	659	,	"type":	4	,	"x":	0.4	,	"tick":	124920	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	661	},
+{	"id":	660	,	"type":	4	,	"x":	0.6	,	"tick":	124950	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	662	},
+{	"id":	661	,	"type":	4	,	"x":	0.4	,	"tick":	124980	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	663	},
+{	"id":	662	,	"type":	4	,	"x":	0.6	,	"tick":	125010	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	664	},
+{	"id":	663	,	"type":	4	,	"x":	0.4	,	"tick":	125040	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	665	},
+{	"id":	664	,	"type":	4	,	"x":	0.6	,	"tick":	125070	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	666	},
+{	"id":	665	,	"type":	4	,	"x":	0.4	,	"tick":	125100	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	667	},
+{	"id":	666	,	"type":	4	,	"x":	0.6	,	"tick":	125130	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	668	},
+{	"id":	667	,	"type":	4	,	"x":	0.4	,	"tick":	125160	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	669	},
+{	"id":	668	,	"type":	4	,	"x":	0.6	,	"tick":	125190	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	670	},
+{	"id":	669	,	"type":	4	,	"x":	0.4	,	"tick":	125220	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	-1	},
+{	"id":	670	,	"type":	4	,	"x":	0.6	,	"tick":	125250	,	"hold_tick":	0	,	"page_index":	260	,	"next_id":	-1	},
+{	"id":	671	,	"type":	2	,	"x":	0.75	,	"tick":	125280	,	"hold_tick":	5760	,	"page_index":	261	,	"next_id":	0	},
+{	"id":	672	,	"type":	2	,	"x":	0.25	,	"tick":	125280	,	"hold_tick":	5760	,	"page_index":	261	,	"next_id":	0	}
+]
+}
